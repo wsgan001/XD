@@ -1,0 +1,166 @@
+package Health_Sys;
+import java.io.*;
+import java.awt.*;
+import java.awt.event.*;
+import javax.swing.*;
+import java.util.HashMap;
+import java.util.Iterator;
+import java.util.Vector;
+import java.util.Collections;
+
+public class patient_list extends JPanel
+{
+	public JTextField search_jtf=new JTextField("",10);
+	public JButton search_button=new JButton("Search");
+	public JPanel list_panel;
+	public JScrollPane js_list_panel;
+	HashMap<JButton,String> model_buttons=new HashMap<JButton,String>();
+	patient_list_adapter button_listener;
+	patient_list_key_adapter key_listener;
+	Vector<String> all_patients=new Vector<String>();
+	
+	public prediction_ui PARENT=null;
+	
+	public patient_list()
+	{
+		init_ui();
+		load_patients();
+	}
+	
+	public patient_list(prediction_ui p)
+	{
+		PARENT=p;
+		init_ui();
+		load_patients();
+	}
+	
+	public void init_ui()
+	{
+		this.setLayout(new BorderLayout());
+		JPanel top_jp=new JPanel(new FlowLayout(FlowLayout.CENTER));
+		button_listener=new patient_list_adapter(this);
+		key_listener=new patient_list_key_adapter(this);
+		top_jp.add(search_jtf);
+		this.addKeyListener(key_listener);
+		search_button.addActionListener(button_listener);
+		top_jp.add(search_button);
+		this.add(top_jp,BorderLayout.NORTH);
+		list_panel=new JPanel();
+		list_panel.setLayout(new BoxLayout(list_panel,BoxLayout.Y_AXIS));		
+		js_list_panel=new JScrollPane(list_panel,JScrollPane.VERTICAL_SCROLLBAR_ALWAYS,JScrollPane.HORIZONTAL_SCROLLBAR_NEVER);
+		this.add(js_list_panel,BorderLayout.CENTER);
+	}
+	
+	public void load_patients()	
+	{
+		try
+		{
+			all_patients.clear();
+			BufferedReader br=new BufferedReader(new FileReader("PersonData/sqlfile_outputfile_基本資料與身體評估.txt"));
+			String buffer="";
+			while((buffer=br.readLine())!=null)
+			{
+				String all_items[]=buffer.split(",");
+				if(!all_patients.contains(all_items[1]))
+					all_patients.add(all_items[1]);
+			}
+			br.close();
+			list_patients();
+		}
+		catch(Exception e)
+		{
+			System.out.println("patient_list load_patients execption:"+e);
+		}
+	}
+	
+	public void list_patients()	
+	{
+		String keyword=search_jtf.getText();
+		try
+		{
+			Iterator ir=model_buttons.keySet().iterator();
+			while(ir.hasNext())
+			{
+				Object temp_ob=ir.next();
+				temp_ob=null;
+			}
+			list_panel.removeAll();			
+			int y=0;
+			Collections.sort(all_patients);
+			for(int i=0;i<all_patients.size();i++)
+			{
+				String temp_no=all_patients.get(i);
+				if(temp_no.indexOf(keyword)>=0)
+				{
+					JButton temp_jb=new JButton(temp_no);
+					temp_jb.addActionListener(button_listener);
+					model_buttons.put(temp_jb,temp_no);
+					//temp_jb.setSize(150,25);
+					//temp_jb.setBounds(0,y,100,25);
+					//y+=25;
+					list_panel.add(temp_jb);
+					
+				}
+			}			
+			list_panel.revalidate();		
+			js_list_panel.revalidate();
+			this.updateUI();
+		}
+		catch(Exception e)
+		{
+			System.out.println("patient_list list_patients execption:"+e);
+		}
+	}
+	
+	public void actions(ActionEvent ev)
+	{
+		try
+		{
+			Object temp_ob=ev.getSource();
+			if(model_buttons.get(temp_ob)!=null)
+			{
+				if(PARENT!=null)
+					PARENT.set_patient(model_buttons.get(temp_ob));
+			}
+			if(ev.getSource().equals(search_button))
+			{
+				list_patients();
+			}
+		}
+		catch(Exception e)
+		{
+			System.out.println("patient_list actions exception:"+e);
+		}
+	}
+}
+
+class patient_list_adapter implements ActionListener
+{
+	patient_list adaptee;
+	public patient_list_adapter(patient_list adaptee)
+	{
+		this.adaptee=adaptee;
+	}
+	
+	public void actionPerformed(ActionEvent ev)
+	{
+		adaptee.actions(ev);
+	}
+}
+
+class patient_list_key_adapter extends KeyAdapter
+{
+	patient_list adaptee;
+	public patient_list_key_adapter(patient_list adaptee)
+	{
+		this.adaptee=adaptee;
+	}
+	
+	public void keyReleased(KeyEvent ke)
+	{
+		if(ke.getKeyCode()==KeyEvent.VK_ENTER)
+		{			
+			adaptee.load_patients();
+		}
+	}
+}

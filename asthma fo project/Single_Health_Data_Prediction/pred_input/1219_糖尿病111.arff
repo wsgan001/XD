@@ -1,0 +1,143 @@
+@relation disease_combined_arff
+
+@attribute F1_A0 numeric 
+@attribute F1_A1 numeric 
+@attribute F1_A2 numeric 
+@attribute F1_A3 numeric 
+@attribute F2_A0 numeric 
+@attribute F2_A1 numeric 
+@attribute F2_A2 numeric 
+@attribute F2_A3 numeric 
+@attribute F3_A0 numeric 
+@attribute F3_A1 numeric 
+@attribute F3_A2 numeric 
+@attribute F3_A3 numeric 
+@attribute F4_A0 numeric 
+@attribute F4_A1 numeric 
+@attribute F4_A2 numeric 
+@attribute F4_A3 numeric 
+@attribute F7_A0 numeric 
+@attribute F7_A1 numeric 
+@attribute F7_A2 numeric 
+@attribute F7_A3 numeric 
+@attribute F8_A0 numeric 
+@attribute F8_A1 numeric 
+@attribute F8_A2 numeric 
+@attribute F8_A3 numeric 
+@attribute F9_A0 numeric 
+@attribute F9_A1 numeric 
+@attribute F9_A2 numeric 
+@attribute F9_A3 numeric 
+@attribute F11_A0 numeric 
+@attribute F11_A1 numeric 
+@attribute F11_A2 numeric 
+@attribute F11_A3 numeric 
+@attribute F14_A0 numeric 
+@attribute F14_A1 numeric 
+@attribute F14_A2 numeric 
+@attribute F14_A3 numeric 
+@attribute F15_A0 numeric 
+@attribute F15_A1 numeric 
+@attribute F15_A2 numeric 
+@attribute F15_A3 numeric 
+@attribute F16_A0 numeric 
+@attribute F16_A1 numeric 
+@attribute F16_A2 numeric 
+@attribute F16_A3 numeric 
+@attribute F16_A4 numeric 
+@attribute F16_A5 numeric 
+@attribute F16_A6 numeric 
+@attribute F17_A0 numeric 
+@attribute F17_A1 numeric 
+@attribute F17_A2 numeric 
+@attribute F17_A3 numeric 
+@attribute F18_A0 numeric 
+@attribute F18_A1 numeric 
+@attribute F18_A2 numeric 
+@attribute F18_A3 numeric 
+@attribute F19_A0 numeric 
+@attribute F19_A1 numeric 
+@attribute F19_A2 numeric 
+@attribute F19_A3 numeric 
+@attribute F20_A0 numeric 
+@attribute F20_A1 numeric 
+@attribute F20_A2 numeric 
+@attribute F20_A3 numeric 
+@attribute F20_A4 numeric 
+@attribute F20_A5 numeric 
+@attribute F20_A6 numeric 
+@attribute F21_A0 numeric 
+@attribute F21_A1 numeric 
+@attribute F21_A2 numeric 
+@attribute F21_A3 numeric 
+@attribute F22_A0 numeric 
+@attribute F22_A1 numeric 
+@attribute F22_A2 numeric 
+@attribute F22_A3 numeric 
+@attribute F23_A0 numeric 
+@attribute F23_A1 numeric 
+@attribute F23_A2 numeric 
+@attribute F23_A3 numeric 
+@attribute F24_A0 numeric 
+@attribute F25_A0 numeric 
+@attribute F25_A1 numeric 
+@attribute F25_A2 numeric 
+@attribute F25_A3 numeric 
+@attribute F26_A0 numeric 
+@attribute F26_A1 numeric 
+@attribute F26_A2 numeric 
+@attribute F26_A3 numeric 
+@attribute F27_A0 numeric 
+@attribute F27_A1 numeric 
+@attribute F27_A2 numeric 
+@attribute F27_A3 numeric 
+@attribute F28_A0 numeric 
+@attribute F28_A1 numeric 
+@attribute F28_A2 numeric 
+@attribute F28_A3 numeric 
+@attribute F29_A0 numeric 
+@attribute F29_A1 numeric 
+@attribute F29_A2 numeric 
+@attribute F29_A3 numeric 
+@attribute F30_A0 numeric 
+@attribute F30_A1 numeric 
+@attribute F30_A2 numeric 
+@attribute F31_A0 numeric 
+@attribute attri_1 numeric
+@attribute attri_2 {10, 15, 8, 3, 1, 2, 13, 9, 4, 0, 6, 11, 7, 5, 12, 14}
+@attribute attri_3 {7, 12, 10, 15, 1, 8, 5, 9, 11, 4, 0, 13, 2, 14, 6, 3}
+@attribute attri_4 {5, 0, 7, 2, 10, 8, 6, 4, 9, 3, 1}
+@attribute attri_5 {0, 1}
+@attribute attri_6 {1, 0}
+@attribute attri_7 numeric
+@attribute attri_8 {1, 0, 2}
+@attribute attri_9 {0, 1}
+@attribute attri_10 {1, 0}
+@attribute attri_11 numeric
+@attribute attri_12 {8, 2, 9, 6, 5, 0, 1, 7, 10, 4, 3}
+@attribute attri_13 {440, 82, 5, 355, 273, 116, 187, 308, 464, 142, 35, 157, 481, 103, 143, 191, 243, 215, 496, 40, 57, 310, 96, 257, 192, 396, 177, 363, 222, 312, 259, 139, 126, 519, 110, 132, 14, 66, 513, 131, 476, 198, 290, 576, 2, 406, 43, 303, 151, 494, 377, 75, 99, 325, 205, 531, 6, 10, 386, 543, 589, 122, 364, 112, 357, 268, 185, 218, 424, 564, 105, 108, 413, 595, 545, 245, 328, 477, 568, 583, 233, 252, 293, 33, 389, 503, 301, 0, 214, 91, 170, 366, 158, 194, 504, 240, 316, 292, 189, 162, 204, 524, 358, 148, 51, 272, 234, 50, 542, 232, 374, 80, 600, 500, 431, 289, 298, 506, 200, 526, 470, 141, 537, 183, 72, 533, 540, 342, 521, 227, 159, 594, 379, 16, 441, 109, 453, 166, 30, 39, 425, 123, 242, 22, 7, 577, 529, 520, 439, 546, 387, 365, 582, 69, 449, 333, 391, 344, 532, 230, 247, 591, 133, 423, 492, 188, 295, 414, 60, 224, 337, 136, 25, 361, 226, 294, 107, 70, 385, 341, 202, 555, 264, 323, 450, 393, 239, 514, 490, 412, 488, 87, 93, 409, 78, 399, 147, 55, 348, 49, 334, 507, 86, 478, 135, 180, 181, 149, 572, 210, 184, 129, 98, 300, 235, 340, 100, 497, 104, 167, 169, 574, 522, 9, 343, 311, 601, 462, 38, 443, 502, 271, 179, 442, 515, 124, 238, 281, 17, 1, 415, 236, 566, 73, 336, 567, 518, 173, 527, 430, 244, 154, 395, 280, 182, 554, 318, 403, 121, 309, 485, 590, 400, 287, 211, 592, 455, 552, 77, 231, 113, 501, 48, 269, 420, 510, 538, 255, 505, 473, 426, 448, 422, 63, 285, 47, 536, 378, 302, 165, 256, 274, 474, 61, 94, 92, 288, 465, 499, 534, 19, 586, 58, 517, 351, 479, 95, 155, 208, 265, 570, 483, 28, 445, 331, 345, 381, 306, 275, 45, 8, 466, 525, 90, 161, 588, 418, 315, 297, 369, 380, 376, 193, 304, 29, 581, 486, 36, 263, 196, 283, 320, 163, 407, 84, 544, 249, 111, 68, 349, 134, 550, 101, 593, 398, 130, 253, 296, 416, 305, 460, 137, 115, 118, 12, 575, 587, 563, 41, 401, 372, 284, 394, 79, 74, 446, 27, 493, 495, 34, 53, 279, 556, 467, 329, 31, 171, 350, 276, 354, 491, 429, 388, 145, 597, 119, 373, 438, 32, 509, 383, 599, 508, 322, 573, 339, 463, 186, 368, 195, 547, 18, 228, 97, 326, 11, 251, 26, 175, 549, 71, 42, 319, 125, 471, 278, 225, 456, 487, 13, 447, 432, 480, 76, 433, 584, 436, 3, 220, 241, 562, 207, 62, 484, 206, 338, 346, 392, 150, 114, 20, 360, 528, 128, 21, 89, 270, 437, 459, 299, 578, 335, 539, 174, 558, 428, 168, 127, 352, 472, 598, 475, 81, 390, 565, 362, 266, 267, 419, 356, 313, 317, 516, 120, 452, 402, 85, 248, 353, 530, 209, 197, 199, 65, 498, 286, 261, 427, 262, 46, 511, 461, 458, 144, 454, 451, 569, 561, 579, 596, 585, 560, 44, 260, 106, 282, 201, 237, 457, 384, 221, 258, 408, 469, 88, 571, 15, 4, 216, 410, 102, 64, 551, 382, 52, 397, 417, 370, 246, 254, 435, 541, 138, 332, 548, 371, 434, 156, 512, 24, 523, 405, 23, 489, 190, 277, 321, 291, 324, 217, 83, 557, 535, 359, 140, 468, 219, 54, 37, 411, 404, 250, 212, 314, 67, 327, 559, 482, 56, 223, 117, 367, 146, 153, 160, 347, 421, 172, 580, 178, 375, 553, 213, 229, 203, 444, 59, 176, 330, 152, 164, 307}
+@attribute attri_14 numeric
+@attribute attri_15 {5, 14, 32, 6, 4, 10, 31, 25, 29, 7, 16, 24, 2, 3, 28, 30, 26, 18, 19, 8, 21, 1, 9, 22, 23, 0, 27, 17, 15, 20, 11, 12, 13}
+@attribute attri_16 {4, 1, 0, 2, 3, 6, 5}
+@attribute attri_17 {1, 2, 0, 3}
+@attribute attri_18 {5, 4, 3, 1, 2, 0}
+@attribute attri_19 {3, 2, 6, 9, 8, 1, 0, 7, 4, 5}
+@attribute attri_20 {1, 2, 0}
+@attribute attri_21 {1, 0, 2, 3}
+@attribute attri_22 {2, 0, 1}
+@attribute attri_23 {11, 4, 16, 12, 15, 8, 13, 7, 5, 3, 14, 6, 2, 10, 1, 17, 9, 0}
+@attribute attri_24 {1, 0}
+@attribute attri_25 {1, 2, 0}
+@attribute attri_26 {12, 23, 18, 7, 16, 1, 17, 20, 3, 0, 27, 9, 14, 13, 28, 24, 8, 19, 22, 21, 26, 25, 2, 11, 29, 4, 5, 6, 15, 10}
+@attribute attri_27 {2, 4, 5, 1, 6, 3, 0}
+@attribute attri_28 {5, 1, 2, 4, 0, 3}
+@attribute attri_29 {1, 0, 2}
+@attribute attri_30 {3, 0, 2, 1}
+@attribute attri_31 {0, 1, 4, 6, 3, 7, 9, 8, 5, 2, 10}
+@attribute attri_32 {1, 2, 8, 5, 6, 3, 10, 9, 4, 7, 0}
+@attribute attri_33 numeric
+@attribute attri_34 numeric
+@attribute class { C1, C2, C3, C?}
+
+@data
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,27.2,1,1,1,1,0,961114,1,1,1,19520204,1,579,02251469,22,1,1,1,8,1,1,1,1,1,0,1,1,1,1,1,3,?,104,5.6,C?

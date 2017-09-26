@@ -1,0 +1,2 @@
+javac -classpath .;commons-math-1.2.jar data_format/asthma_segment_processing.java
+java -classpath .;commons-math-1.2.jar data_format/asthma_segment_processing "AsthmaData\integrated" 3 "AsthmaData\segmented3"

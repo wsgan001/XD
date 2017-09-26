@@ -1,0 +1,20 @@
+@relation Combined_Arff
+
+@attribute F1_A0 numeric 
+@attribute F1_A1 numeric 
+@attribute F1_A2 numeric 
+@attribute F1_A3 numeric 
+@attribute F1_A4 numeric 
+@attribute F2_A0 numeric 
+@attribute F2_A1 numeric 
+@attribute F2_A2 numeric 
+@attribute F2_A3 numeric 
+@attribute F2_A4 numeric 
+@attribute attri_1 {110, 100, 8, 42, 26, 88, 61, 109, 7, 47, 71, 2, 84, 96, 52, 70, 10, 28, 11, 92, 64, 80, 97, 16, 51, 0, 104, 83, 50, 114, 98, 105, 116, 43, 38, 46, 4, 23, 22, 57, 36, 74, 91, 99, 25, 60, 78, 93, 27, 5, 29, 1, 73, 63, 108, 62, 75, 79, 68, 103, 20, 35, 67, 107, 15, 13, 85, 30, 41, 102, 53, 86, 39, 19, 77, 3, 56, 59, 65, 14, 89, 24, 45, 120, 72, 87, 82, 55, 117, 17, 58, 31, 44, 81, 94, 6, 9, 32, 18, 33, 115, 48, 66, 34, 40, 12, 49, 21, 119, 54, 113, 90, 37, 106, 111, 76, 95, 118, 112, 121, 69, 101}
+@attribute attri_2 {0, 5, 7, 6, 2, 4, 10, 3, 8, 9, 1}
+@attribute attri_3 {2, 0, 1}
+@attribute class { C1, C2, C3, C?}
+
+@data 
+
+1,1,1,1,1,0,1,1,1,1,6,1,0,C2

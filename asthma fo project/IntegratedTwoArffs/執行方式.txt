@@ -1,0 +1,49 @@
+
+
+C:\jdk1.6.0_03\bin\2009_09月份\20090930_01_資料夾內資料_轉arff檔>
+
+
+
+
+20091012-執行程式:
+
+	java main 參數1 參數2
+
+java main "C:\jdk1.6.0_03\bin\2009_10月份\20091004_01_整合動態與靜態資料_Combination"
+
+
+參數1:兩個資料來源的資料夾路徑 (昭輝的sequential patterns.arff)
+
+注意: 
+
+上述兩種資料需一同存放於資料來源資料夾裡
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+20091005-執行程式:
+
+
+	java main 參數1 參數2
+
+
+java main "C:\jdk1.6.0_03\bin\2009_10月份\20091004_01_整合動態與靜態資料_Combination\test.arff" "C:\jdk1.6.0_03\bin\2009_10月份\20091004_01_整合動態與靜態資料_Combination\test2.arff"
+
+
+參數1:資料來源資料夾路徑 (昭輝的sequential patterns.arff)
+參數2:資料來源資料夾路徑 (國誠的static data.arff)

@@ -1,0 +1,23 @@
+
+2009/11/02
+
+執行指令:
+
+
+java Balance "C:\jdk1.6.0_03\bin\2009_11月份\20091123_Balance_預測2_依曾老師方法修改\input_data" "Combined_Arff.arff"
+
+
+
+
+2009/11/02
+
+執行指令:
+
+
+java Balance "C:\jdk1.6.0_03\bin\2009_11月份\20091103_01_健檢資料_平衡比率\input_data" "Combined_Arff.arff"
+
+
+java Balance "C:\jdk1.6.0_03\bin\2009_11月份\20091103_01_健檢資料_平衡比率\input_data" "糖尿病篩檢_ID3.arff"
+
+
+java Balance "C:\jdk1.6.0_03\bin\2009_11月份\20091103_01_健檢資料_平衡比率\input_data" "糖尿病_seq.arff"

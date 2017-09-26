@@ -1,0 +1,9 @@
+原始資料
+	2005年03月-11月資料：pefr.csv
+	2005年03月-2007年07月資料:all_pefr.csv又依照年份拆為pefr_2005All.csv,pefr_2006All.csv,pefr_2007All.csv檔案
+	完整收錄病患資料：完整收錄病患資料.xls (曹慧美同學資料)
+
+ID以代碼取代資料，刪去醫生ID(dssn)	
+	2005年03月-11月資料：pefr.csv
+	2005年03月-2007年07月資料:all_pefr.csv又依照年份拆為pefr_2005All.csv,pefr_2006All.csv,pefr_2007All.csv檔案
+	完整收錄病患資料：依照年份拆為perf2006.xls, perf2007.xls (曹慧美同學資料)

@@ -1,0 +1,480 @@
+package progressive_pattern;
+import java.io.*;
+import java.util.Vector;
+import java.util.HashMap;
+import java.util.Iterator;
+
+import data_format.*;
+
+// all result will output into a file.
+// ========================================
+// This program is for generate progressive pattern on MTS dataset "directly".
+//
+
+public class mprogressive_pattern
+{
+	public String DATASET_FILENAME=""; //filename
+	//public Vector<mpp_tree_node> ROOT_SET;
+	public HashMap<String,item_state> FREQUENT_ITEM;  //item with the state
+	public HashMap<String,Integer> CLASS_COUNT;
+	public int TRANSACTION_COUNT;
+	public double SUPPORT;
+	public int SUPPORT_COUNT;
+	public String result_filename="";
+	private BufferedWriter result_bw;
+	
+	public double BASIC_CONFIDENCE=0.0;
+	public double FULL_CONFIDENCE=0.5;
+	
+	public boolean ITEM_REPEAT=false;
+	
+	public mprogressive_pattern(String f,double s,double c1,double c2)
+	{
+		DATASET_FILENAME=f;
+		TRANSACTION_COUNT=0;
+		SUPPORT=s;
+		SUPPORT_COUNT=0;
+		BASIC_CONFIDENCE=c1;
+		FULL_CONFIDENCE=c2;
+		//ROOT_SET=new Vector<mpp_tree_node>();
+		FREQUENT_ITEM=new HashMap<String,item_state>();
+		CLASS_COUNT=new HashMap<String,Integer>();
+	}
+		
+	public void start()
+	{		
+		create_result_file();
+		preprocess();		
+		mprogressive_pattern_mining();
+	}	
+	
+	/*create a file for storage of mined patterns*/
+	private void create_result_file()
+	{
+		try
+		{
+			File result_file=File.createTempFile("mpp_temp",".txt",new File("tmp"));
+			//result_file.deleteOnExit();    //It will let file be deleted when program over
+			result_filename=result_file.getAbsolutePath();
+			System.out.println("Multivariate Progressive Pattern File:"+result_filename);
+			result_bw=new BufferedWriter(new FileWriter(result_file));
+		}
+		catch(Exception e)
+		{
+			System.out.println("mprogressive_pattern create_result_file exception:"+e);
+		}
+	}
+	
+	public class item_state
+	{
+		public String item_name="";
+		public int var_index=0;   //for Multivariate Time Series
+		public int support=0;
+		public double confidence=-1.0;
+		public HashMap<String,Integer> class_count=new HashMap<String,Integer>();
+		public Vector<Integer> coverage=new Vector<Integer>(); //transaction#
+		public item_state(int vi,String i) // vi-th ts variable of a mts transaction, i is the item_name
+		{
+			var_index=vi;
+			item_name=i;
+		}
+		
+		public void add(String c)
+		{
+			if(class_count.containsKey(c))
+			{
+				int x=((Integer)class_count.get(c)).intValue()+1;
+				class_count.put(c,new Integer(x));
+			}
+			else
+			{
+				class_count.put(c,new Integer(1));
+			}
+			support++;
+		}
+		
+		public double get_highest_confidence()
+		{
+			int k=0;
+			if(confidence>=0)
+				return confidence;
+			else
+			{
+				try
+				{
+					Iterator ir=class_count.keySet().iterator();				
+					while(ir.hasNext())
+					{
+						int u=((Integer)class_count.get((String)ir.next())).intValue();
+						if(u>k || k==0)
+							k=u;
+					}				
+				}
+				catch(Exception e)
+				{
+					System.out.println("item_state get_highest_confidence exception:"+e);
+				}
+				return k/(double)support;
+			}
+		}		
+	}
+	
+	/*Find all frequent and high-confident one*/
+	/*In MTS, different variables have their own frequent counts*/
+	public void preprocess()
+	{
+		try
+		{
+			BufferedReader br=new BufferedReader(new FileReader(DATASET_FILENAME));
+			//Vector<Integer> freq_count=new Vector<Integer>();
+			String buffer="";
+			TRANSACTION_COUNT=0;		
+			//Count all firstly
+			String temp_mts="";
+			String temp_class="";
+			while(true)
+			{
+				buffer=br.readLine();
+				if(buffer==null || buffer.equals(""))
+				{
+					if(!temp_mts.trim().equals(""))
+					{
+						mv_transaction temp_transaction=transaction_parser.class_msequence_parser(temp_mts);
+						for(int i=0;i<temp_transaction.ITEM_SET.size();i++)
+						{
+							Vector<String> temp_var_item_set=temp_transaction.ITEM_SET.get(i);
+							for(int j=0;j<temp_var_item_set.size();j++)
+							{
+								String temp_item_name=(String)temp_var_item_set.get(j);
+								item_state temp_item_state=null;
+								// ts0_100  var_index=0 item_name=100
+								String temp_key="ts"+Integer.toString(i)+"_"+temp_item_name;
+								if(FREQUENT_ITEM.containsKey(temp_key))
+									temp_item_state=(item_state)FREQUENT_ITEM.get(temp_key);
+								else
+									temp_item_state=new item_state(i,temp_item_name);
+								temp_item_state.add(temp_transaction.CLASS_LABEL);
+								FREQUENT_ITEM.put(temp_key,temp_item_state);
+							}
+						}
+						if(CLASS_COUNT.containsKey(temp_transaction.CLASS_LABEL))
+						{
+							int cc=((Integer)CLASS_COUNT.get(temp_transaction.CLASS_LABEL)).intValue()+1;
+							CLASS_COUNT.put(temp_transaction.CLASS_LABEL,new Integer(cc));
+						}
+						else
+							CLASS_COUNT.put(temp_transaction.CLASS_LABEL,new Integer(1));
+						TRANSACTION_COUNT++;
+					
+						if(buffer==null)
+							break;
+						temp_mts="";
+					}
+				}
+				else
+				{
+					temp_mts+=buffer;
+				}
+			}
+			System.out.println(TRANSACTION_COUNT);
+			System.out.println(CLASS_COUNT);
+			
+			SUPPORT_COUNT=(int)(TRANSACTION_COUNT*SUPPORT);
+			br.close();
+			
+			result_bw.write("#Large 1\n");
+			//System.out.println("#Large 1");
+			Vector<String> remove_item_set=new Vector<String>();
+			Iterator item_ir=FREQUENT_ITEM.keySet().iterator();
+			while(item_ir.hasNext())
+			{
+				String temp_item_name=(String)item_ir.next();				
+				item_state temp_item_state=(item_state)FREQUENT_ITEM.get(temp_item_name);
+				if(temp_item_state.support>=SUPPORT_COUNT)
+				{
+					result_bw.write(temp_item_name+":"+temp_item_state.support);
+					Iterator ir=temp_item_state.class_count.keySet().iterator();
+					Vector<String> remove_set=new Vector<String>();
+					result_bw.write("[");
+					while(ir.hasNext())
+					{
+						String class_name=(String)ir.next();
+						int cv=((Integer)temp_item_state.class_count.get(class_name)).intValue();
+						if((cv/(double)temp_item_state.support)>=BASIC_CONFIDENCE)
+							result_bw.write(class_name+":"+temp_item_state.class_count.get(class_name)+",");
+						else
+							remove_set.add(class_name);
+					}
+					result_bw.write("]\n");
+					for(int i=0;i<remove_set.size();i++)
+					{
+						temp_item_state.class_count.remove(remove_set.get(i));
+					}
+				}
+				else
+				{
+					remove_item_set.add(temp_item_name);
+				}
+				//System.out.println(FREQUENT_ITEM.get(i));
+			}
+			for(int i=0;i<remove_item_set.size();i++)
+				FREQUENT_ITEM.remove(remove_item_set.get(i));
+			br.close();
+		}
+		catch(Exception e)
+		{
+			System.out.println("sequential pattern start exception:"+e);
+		}		
+	}
+	
+	public mpp_tree_node build_large_1()
+	{
+		mpp_tree_node result=new mpp_tree_node();
+		try
+		{
+			Iterator ir=FREQUENT_ITEM.keySet().iterator();
+			while(ir.hasNext())
+			{
+				String temp_item_name=(String)ir.next();
+				item_state temp_item_state=FREQUENT_ITEM.get(temp_item_name);
+				//result.path_build(temp_item_name,temp_item_state.class_count);
+				result.path_build_with_class_count(temp_item_name,temp_item_state.class_count);
+			}
+			//for(int i=0;i<FREQUENT_ITEM.size();i++)
+			//	result.path_build((String)FREQUENT_ITEM.get(i));
+		}
+		catch(Exception e)
+		{
+			System.out.println("mprogressive_pattern build_large_1 exception:"+e);
+		}
+		return result;
+	}
+	
+	public boolean build_candidate_large_n(mpp_tree_node sub_root)
+	{
+		boolean result=false;
+		try
+		{
+			//System.out.println(sub_root.CHILDREN.size());
+			if(ITEM_REPEAT)
+				result=sub_root.extend_all_leaves();
+			else
+				result=sub_root.extend_all_leaves_without_repeat();
+			sub_root.clear_all_count();
+		}
+		catch(Exception e)
+		{
+			System.out.println("mprogressive_pattern build_candidate_large_n exception:"+e);
+		}
+		return result;
+	}
+	
+	public boolean build_large_n(mpp_tree_node sub_root)
+	{
+		try
+		{
+			BufferedReader br=new BufferedReader(new FileReader(DATASET_FILENAME));
+			String buffer="";
+			String temp_mts="";
+			int transaction_count=0;
+			while(true)
+			{
+				buffer=br.readLine();
+				if(buffer==null || buffer.equals(""))
+				{
+					if(!temp_mts.trim().equals(""))
+					{
+						mv_transaction temp_transaction=transaction_parser.class_msequence_parser(temp_mts);
+						sub_root.pattern_trace_for_counting(temp_transaction.ITEM_SET,0,transaction_count,temp_transaction.CLASS_LABEL);
+						//sub_root.pattern_trace((transaction_parser.class_sequence_parser(buffer)).ITEM_SET,0);
+					}
+
+					if(buffer==null)
+						break;
+					temp_mts="";
+					transaction_count++;
+				}
+				else
+				{
+					temp_mts+=buffer;
+				}
+			}
+			br.close();			
+		}
+		catch(Exception e)
+		{
+			System.out.println("mprogressive_pattern build_large_n exception:"+e);
+		}
+		//if prune=false, it means no large itemset.
+		return prune(sub_root);
+	}
+	
+	public void output_large_n(mpp_tree_node sub_root)
+	{
+		try
+		{
+			output_large_n(sub_root,"");
+		}
+		catch(Exception e)
+		{
+			System.out.println("mprogressive_pattern output_large_n exception:"+e);
+		}
+	}
+	
+	private void output_large_n(mpp_tree_node sub_root,String seq)
+	{
+		try
+		{
+			if(!sub_root.CONTENT.equals(""))
+				seq+=sub_root.CONTENT+",";
+			if(sub_root.is_leaf())
+			{
+				result_bw.write(seq+":"+sub_root.COUNT);
+				Iterator ir=sub_root.SCORE_TABLE.keySet().iterator();
+				result_bw.write("[");
+				while(ir.hasNext())
+				{
+					String temp_class_name=(String)ir.next();
+					result_bw.write(temp_class_name+":"+sub_root.SCORE_TABLE.get(temp_class_name)+",");
+				}
+				result_bw.write("]");
+				result_bw.write("\n");
+				//System.out.println(seq);
+			}
+			else
+			{
+				Iterator ir=sub_root.CHILDREN.keySet().iterator();
+				while(ir.hasNext())
+				{					
+					output_large_n((mpp_tree_node)sub_root.CHILDREN.get((String)ir.next()),seq);
+				}
+			}
+		}
+		catch(Exception e)
+		{
+			System.out.println("mprogressive_pattern output_large_n exception:"+e);
+		}
+	}
+	
+	public boolean prune(mpp_tree_node sub_root)
+	{
+		try
+		{
+			if(sub_root.is_leaf())
+			{
+				if(sub_root.COUNT>=SUPPORT_COUNT)
+				{
+					HashMap<String,Double> parent_confidence=sub_root.PARENT.SCORE_TABLE;
+					Vector<String> remove_list=new Vector<String>();
+					Iterator ir=sub_root.SCORE_TABLE.keySet().iterator();
+					while(ir.hasNext())
+					{
+						String class_name=(String)ir.next();
+						double this_v=((Double)sub_root.SCORE_TABLE.get(class_name)).doubleValue()/(double)sub_root.COUNT;
+						if(parent_confidence.containsKey(class_name))
+						{
+							double pre_v=((Double)parent_confidence.get(class_name)).doubleValue()/(double)sub_root.PARENT.COUNT;
+							if(this_v<=pre_v)
+								remove_list.add(class_name);
+						}
+						else
+							remove_list.add(class_name);
+					}
+					if(sub_root.PARENT.CONTENT.equals("24"))
+							System.out.println(remove_list);			
+					for(int i=0;i<remove_list.size();i++)
+						sub_root.SCORE_TABLE.remove(remove_list.get(i));
+					if(sub_root.SCORE_TABLE.size()!=0)
+						return true;
+				}
+				return false;
+			}
+			else
+			{
+				boolean result=false;
+				Iterator ir=sub_root.CHILDREN.keySet().iterator();
+				Vector<String> remove_list=new Vector<String>();
+				while(ir.hasNext())
+				{
+					String temp=(String)ir.next();
+					boolean temp_b=prune((mpp_tree_node)sub_root.CHILDREN.get(temp));
+					if(!temp_b)
+						remove_list.add(temp);
+					result=result||temp_b;
+				}
+				for(int i=0;i<remove_list.size();i++)
+					sub_root.CHILDREN.remove((String)remove_list.get(i));
+				//System.out.println(result);
+				return result;
+			}
+		}
+		catch(Exception e)
+		{
+			System.out.println("mprogressive_pattern prune exception:"+e);
+		}
+		return false;
+	}
+	
+	public void mprogressive_pattern_mining()
+	{
+		try
+		{			
+			mpp_tree_node temp_root=build_large_1();
+			int level=2;
+			while(true)
+			{
+				if( !build_candidate_large_n(temp_root) )
+					break;
+					
+				result_bw.write("#Candidate "+level+"\n");
+				//System.out.println("#Candidate "+level);
+				
+				output_large_n(temp_root); //show candidates				
+				if( ! build_large_n(temp_root) )
+					break;
+					
+				result_bw.write("#Large "+level+"\n");
+				System.out.println("#Large "+level);
+				
+				output_large_n(temp_root);				
+				level++;
+			}
+			
+			result_bw.close();
+		}	
+		catch(Exception e)
+		{
+			System.out.println("mprogressive_pattern mprogressive_pattern_mining exception:"+e);
+		}
+	}
+	
+	public void save_result_to_file(String fn)
+	{
+		try
+		{
+			if((new File(result_filename)).isFile())
+			{
+				BufferedReader br=new BufferedReader(new FileReader(result_filename));
+				BufferedWriter bw=new BufferedWriter(new FileWriter(fn));
+				String buffer="";
+				while((buffer=br.readLine())!=null)
+				{
+					bw.write(buffer+"\n");
+				}
+				bw.close();
+				br.close();
+				
+			}
+		}
+		catch(Exception e)
+		{
+			System.out.println("mprogressive_pattern save_result_to_file exception:"+e);
+		}
+	}
+	
+	public static void main(String args[])
+	{
+		mprogressive_pattern a=new mprogressive_pattern(args[0],Double.parseDouble(args[1]),Double.parseDouble(args[2]),Double.parseDouble(args[3]));
+		a.start();
+	}
+}

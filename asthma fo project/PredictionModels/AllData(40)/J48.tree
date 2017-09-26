@@ -1,0 +1,11 @@
+digraph J48Tree {
+N0 [label="F34_A4" ]
+N0->N1 [label="<= 0"]
+N1 [label="C2 (74.0)" shape=box style=filled ]
+N0->N2 [label="> 0"]
+N2 [label="attri_7" ]
+N2->N3 [label="<= 960618"]
+N3 [label="C2 (3.0)" shape=box style=filled ]
+N2->N4 [label="> 960618"]
+N4 [label="C3 (77.0)" shape=box style=filled ]
+}

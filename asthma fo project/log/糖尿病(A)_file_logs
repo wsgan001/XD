@@ -1,0 +1,840 @@
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_B型肝炎檢查_B型肝炎表面抗原(轉換)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern5203618761375147673.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_B型肝炎檢查_B型肝炎表面抗原(轉換)_timeseries5282102192226755027table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_B型肝炎檢查_B型肝炎表面抗原(轉換)_timeseries2690620917992796295pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_B型肝炎檢查_B型肝炎表面抗原(轉換)_timeseries3104555509639109187table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_C型肝炎檢查_C型肝炎抗體(轉換)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern8625756294840874929.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_C型肝炎檢查_C型肝炎抗體(轉換)_timeseries5385960896165161989table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_C型肝炎檢查_C型肝炎抗體(轉換)_timeseries1974043247089859846pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_C型肝炎檢查_C型肝炎抗體(轉換)_timeseries8426079786720737011table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_基本資料與身體評估_BMI(轉值)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern5190075871283032507.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_BMI(轉值)_timeseries6367115383785648075table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_BMI(轉值)_timeseries4218282064565864764pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_BMI(轉值)_timeseries6764771510570597466table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_基本資料與身體評估_乳房_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern760052592502264793.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_乳房_timeseries8936204182845590884table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_乳房_timeseries1498839332909545740pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_乳房_timeseries7965024555854418880table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_基本資料與身體評估_四肢_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern4846746915477675533.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_四肢_timeseries9130962524258639219table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_四肢_timeseries5054759040710919474pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_四肢_timeseries5259693050078869483table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_基本資料與身體評估_心臟_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern2124968519067218084.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_心臟_timeseries4481679942415463042table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_心臟_timeseries2904759513718664354pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_心臟_timeseries4939875441071254575table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_基本資料與身體評估_感覺功能(轉換)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern4520409376591593114.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_感覺功能(轉換)_timeseries3606747403338608115table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_感覺功能(轉換)_timeseries8552988950898496118pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_感覺功能(轉換)_timeseries8920648800806745467table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_基本資料與身體評估_攝護腺_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern3199573339383472356.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_攝護腺_timeseries8039267859932528315table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_攝護腺_timeseries8681552371042082482pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_攝護腺_timeseries2697926201565929182table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_基本資料與身體評估_水腫(轉換)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern1755004808671835000.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_水腫(轉換)_timeseries4591055641645989996table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_水腫(轉換)_timeseries7927463716039571968pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_水腫(轉換)_timeseries1986028424124770771table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_基本資料與身體評估_深腱反射_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern1468693638633206739.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_深腱反射_timeseries3401130180907843043table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_深腱反射_timeseries1935382686108710572pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_深腱反射_timeseries2331796554445234797table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_基本資料與身體評估_淺部反射_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern370265688397674598.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_淺部反射_timeseries8336163657823768987table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_淺部反射_timeseries8224322075845583866pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_淺部反射_timeseries7593501157544934459table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_基本資料與身體評估_甲狀腺_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern429931034383971852.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_甲狀腺_timeseries5912529913587614769table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_甲狀腺_timeseries227453428970816289pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_甲狀腺_timeseries9048681165878301285table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_基本資料與身體評估_皮膚_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern1604723924991019850.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_皮膚_timeseries7563526036661709142table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_皮膚_timeseries8166202250664657451pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_皮膚_timeseries2940436309571332362table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_基本資料與身體評估_肌肉及肌腱_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern4014824662783326252.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_肌肉及肌腱_timeseries7568224502297788871table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_肌肉及肌腱_timeseries3916022418514064758pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_肌肉及肌腱_timeseries9102548501550608271table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_基本資料與身體評估_肝臟_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern6161674635170641323.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_肝臟_timeseries3638994411443442464table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_肝臟_timeseries7032200368560246686pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_肝臟_timeseries1431418984979935420table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_基本資料與身體評估_肺臟_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern8881382210990565541.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_肺臟_timeseries7413769358116194169table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_肺臟_timeseries2345120881965499500pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_肺臟_timeseries4509621780360181358table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_基本資料與身體評估_胸部外貌_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern3567337645458800277.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_胸部外貌_timeseries6038104189626446700table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_胸部外貌_timeseries781234071413052144pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_胸部外貌_timeseries6733935467818271702table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_基本資料與身體評估_脊椎_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern8369241625426374634.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_脊椎_timeseries9112132911161199658table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_脊椎_timeseries4385700156455610948pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_脊椎_timeseries7598211565809151476table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_基本資料與身體評估_脾臟_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern1542682505464109308.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_脾臟_timeseries7802317987240816857table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_脾臟_timeseries1249161052248734988pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_脾臟_timeseries9117533542975933857table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_基本資料與身體評估_腎臟_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern3555130036937141997.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_腎臟_timeseries2547905782019625958table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_腎臟_timeseries2633147624912294800pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_腎臟_timeseries2968142655793510522table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_基本資料與身體評估_腹股溝_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern5519043451602696502.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_腹股溝_timeseries2570685606770511223table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_腹股溝_timeseries7099701753285018573pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_腹股溝_timeseries8540864265345531026table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_基本資料與身體評估_腹部外貌_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern7334031134255936573.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_腹部外貌_timeseries6240862885942532368table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_腹部外貌_timeseries479862658619820001pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_腹部外貌_timeseries5762970081088715974table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_基本資料與身體評估_腹部扣診_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern5256210989707558426.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_腹部扣診_timeseries7992982770062025128table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_腹部扣診_timeseries3786896320570744503pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_腹部扣診_timeseries158579658750597227table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_基本資料與身體評估_腹部疤痕(轉換)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern1189067156577655311.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_腹部疤痕(轉換)_timeseries7361623167651617942table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_腹部疤痕(轉換)_timeseries6698373097865471890pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_腹部疤痕(轉換)_timeseries2305085986004464237table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_基本資料與身體評估_腹部觸診_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern3082457245774235371.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_腹部觸診_timeseries840954322090912604table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_腹部觸診_timeseries4887034019584346335pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_腹部觸診_timeseries6112286434498464245table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_基本資料與身體評估_運動功能(轉換)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern2614008118619959972.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_運動功能(轉換)_timeseries3584448927208548302table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_運動功能(轉換)_timeseries1169461438170956563pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_運動功能(轉換)_timeseries2895836543085589697table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_基本資料與身體評估_頸動脈_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern6357961259857466829.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_頸動脈_timeseries6669663021420243788table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_頸動脈_timeseries6839873049973823542pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_頸動脈_timeseries6433598564161879500table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_基本資料與身體評估_頸靜脈_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern5366446884567349830.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_頸靜脈_timeseries1600563023539215554table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_頸靜脈_timeseries4937531096080209619pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_頸靜脈_timeseries8406194877834126761table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_基本資料與身體評估_體位_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern1989911261624039242.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_體位_timeseries4305556620655339117table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_體位_timeseries7151699775527697222pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_體位_timeseries4406783088425210629table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_甲狀腺功能檢查_TSH(轉值)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern5276188107663586213.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_甲狀腺功能檢查_TSH(轉值)_timeseries7337302918441094813table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_甲狀腺功能檢查_TSH(轉值)_timeseries7265928881914658793pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_甲狀腺功能檢查_TSH(轉值)_timeseries5547627652220114555table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_甲狀腺功能檢查_總膽管(轉換)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern8425415852316209307.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_甲狀腺功能檢查_總膽管(轉換)_timeseries5743420423604335812table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_甲狀腺功能檢查_總膽管(轉換)_timeseries7593106909739993908pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_甲狀腺功能檢查_總膽管(轉換)_timeseries397760989071432467table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_甲狀腺功能檢查_肝內膽管_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern7393292279685072732.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_甲狀腺功能檢查_肝內膽管_timeseries582747715762048642table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_甲狀腺功能檢查_肝內膽管_timeseries30988184041294692pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_甲狀腺功能檢查_肝內膽管_timeseries5760700907410933285table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_甲狀腺功能檢查_肝臟_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern5519072087029749487.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_甲狀腺功能檢查_肝臟_timeseries2115284269797350571table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_甲狀腺功能檢查_肝臟_timeseries3811437658921660292pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_甲狀腺功能檢查_肝臟_timeseries2812882023345839519table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_甲狀腺功能檢查_膽囊_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern7865478735769645424.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_甲狀腺功能檢查_膽囊_timeseries3439693452121257007table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_甲狀腺功能檢查_膽囊_timeseries7144445965547266318pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_甲狀腺功能檢查_膽囊_timeseries2046210667580643265table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_甲狀腺功能檢查_靜態心電圖檢查_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern6299334842270690695.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_甲狀腺功能檢查_靜態心電圖檢查_timeseries6941478193148625774table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_甲狀腺功能檢查_靜態心電圖檢查_timeseries205572132658837152pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_甲狀腺功能檢查_靜態心電圖檢查_timeseries8207377765919056679table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_痛風篩檢_尿酸(轉值)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern9099012723202271375.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_痛風篩檢_尿酸(轉值)_timeseries8471327420590241086table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_痛風篩檢_尿酸(轉值)_timeseries49175314484710784pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_痛風篩檢_尿酸(轉值)_timeseries7226500819173205288table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_發炎指標_C反應性蛋白質_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern3218918128109631729.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_發炎指標_C反應性蛋白質_timeseries8989171418552746356table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_發炎指標_C反應性蛋白質_timeseries2996686620734051238pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_發炎指標_C反應性蛋白質_timeseries7969398549271523102table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_白本資料_休閒活動(轉換)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern6418006157014884035.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_休閒活動(轉換)_timeseries3868902679255990097table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_休閒活動(轉換)_timeseries4748417708967358204pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_休閒活動(轉換)_timeseries2929254168092419281table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_白本資料_加糖或奶精(轉換)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern8422578044200097397.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_加糖或奶精(轉換)_timeseries5537314392925614433table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_加糖或奶精(轉換)_timeseries1313339162390900886pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_加糖或奶精(轉換)_timeseries8536795427831610590table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_白本資料_喝咖啡(轉換)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern5521398187334641399.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_喝咖啡(轉換)_timeseries8847644077951932828table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_喝咖啡(轉換)_timeseries2802083469988607657pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_喝咖啡(轉換)_timeseries9156477885266306373table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_白本資料_喝哪種茶(轉換)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern5722204341103970699.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_喝哪種茶(轉換)_timeseries340863864844540611table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_喝哪種茶(轉換)_timeseries3341124264180577502pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_喝哪種茶(轉換)_timeseries7008226684282589794table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_白本資料_喝茶的次數(轉換)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern6090951801673794051.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_喝茶的次數(轉換)_timeseries4928204276716246142table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_喝茶的次數(轉換)_timeseries5120245706574668320pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_喝茶的次數(轉換)_timeseries6533697145193450020table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_白本資料_喝茶的量(轉換)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern6236734465001569526.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_喝茶的量(轉換)_timeseries7633263888737601546table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_喝茶的量(轉換)_timeseries9204416999429585732pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_喝茶的量(轉換)_timeseries8849383626048343848table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_白本資料_喝茶習慣分析(序列轉換)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern4336652572297638471.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_喝茶習慣分析(序列轉換)_timeseries1714044105217151824table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_喝茶習慣分析(序列轉換)_timeseries8037606985261963488pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_喝茶習慣分析(序列轉換)_timeseries6898930677801851739table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_白本資料_喝酒的量(轉換)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern7850565882960484520.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_喝酒的量(轉換)_timeseries7785812804654758434table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_喝酒的量(轉換)_timeseries3586704885541145408pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_喝酒的量(轉換)_timeseries9098524432534840135table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_白本資料_喝酒習慣分析(序列轉換)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern95283591499832043.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_喝酒習慣分析(序列轉換)_timeseries1986836580498000710table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_喝酒習慣分析(序列轉換)_timeseries8123327184341269226pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_喝酒習慣分析(序列轉換)_timeseries9111006396794330335table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_白本資料_嚼檳榔的量(轉換)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern5825911948972270419.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_嚼檳榔的量(轉換)_timeseries928857587731406049table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_嚼檳榔的量(轉換)_timeseries1797261735734757246pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_嚼檳榔的量(轉換)_timeseries4752204711081456514table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_白本資料_嚼檳榔習慣分析(序列轉換)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern7321840290380605894.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_嚼檳榔習慣分析(序列轉換)_timeseries3591345953988497111table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_嚼檳榔習慣分析(序列轉換)_timeseries2241826477647418215pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_嚼檳榔習慣分析(序列轉換)_timeseries1690387498706844921table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_白本資料_婚姻狀態(轉換人數)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern2529016124691441443.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_婚姻狀態(轉換人數)_timeseries8655728081990173574table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_婚姻狀態(轉換人數)_timeseries6787987982638196905pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_婚姻狀態(轉換人數)_timeseries1205650143516900144table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_白本資料_尿酸過高用藥(轉換)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern3489364585091773443.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_尿酸過高用藥(轉換)_timeseries9222697961163823918table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_尿酸過高用藥(轉換)_timeseries1559972522107191962pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_尿酸過高用藥(轉換)_timeseries2043054969118708085table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_白本資料_尿酸過高病史(轉換)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern1129188722278336837.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_尿酸過高病史(轉換)_timeseries772484079681905368table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_尿酸過高病史(轉換)_timeseries4307490573760296915pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_尿酸過高病史(轉換)_timeseries5173060954061591413table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_白本資料_尿酸過高發病年數(轉換)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern5547573966969327941.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_尿酸過高發病年數(轉換)_timeseries5274071581614996757table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_尿酸過高發病年數(轉換)_timeseries7219593956075256057pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_尿酸過高發病年數(轉換)_timeseries3407766834215008677table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_白本資料_年齡(轉換)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern9015280343281963400.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_年齡(轉換)_timeseries1480976287855771244table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_年齡(轉換)_timeseries672018930527261981pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_年齡(轉換)_timeseries5002969538496400749table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_白本資料_心律不整用藥(轉換)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern8592569270278005940.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_心律不整用藥(轉換)_timeseries8520429049785230660table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_心律不整用藥(轉換)_timeseries8411108439185545319pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_心律不整用藥(轉換)_timeseries1927158159338426750table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_白本資料_心律不整病史(轉換)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern8461881315645067967.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_心律不整病史(轉換)_timeseries643580414017902470table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_心律不整病史(轉換)_timeseries6472549844975014182pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_心律不整病史(轉換)_timeseries8283357166323635551table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_白本資料_心律不整發病年數(轉換)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern6045544095555608319.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_心律不整發病年數(轉換)_timeseries9109177269408487831table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_心律不整發病年數(轉換)_timeseries1767970482256853945pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_心律不整發病年數(轉換)_timeseries8156153703177173667table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_白本資料_心肌梗塞家族史(轉換)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern5318008097441134756.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_心肌梗塞家族史(轉換)_timeseries8085218222256525602table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_心肌梗塞家族史(轉換)_timeseries1954443938218850449pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_心肌梗塞家族史(轉換)_timeseries7190268065507791321table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_白本資料_心臟病用藥(轉換)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern4893104898000734665.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_心臟病用藥(轉換)_timeseries8457184512096277585table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_心臟病用藥(轉換)_timeseries6856622413644503928pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_心臟病用藥(轉換)_timeseries6251422449800851094table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_白本資料_心臟病病史(轉換)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern8706950989626057203.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_心臟病病史(轉換)_timeseries9186553513159763441table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_心臟病病史(轉換)_timeseries2658613934854961542pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_心臟病病史(轉換)_timeseries4033257212929797221table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_白本資料_心臟病發病年數(轉換)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern2711530926041786418.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_心臟病發病年數(轉換)_timeseries6441581567364996668table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_心臟病發病年數(轉換)_timeseries2384344150862306517pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_心臟病發病年數(轉換)_timeseries4178373923993185621table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_白本資料_性別_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern7136790995583760783.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_性別_timeseries2360803919618507591table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_性別_timeseries3920027003656164240pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_性別_timeseries2294723849946586042table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_白本資料_抽煙的量(轉換)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern6292738778499033321.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_抽煙的量(轉換)_timeseries4423065555430659548table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_抽煙的量(轉換)_timeseries666849188649117313pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_抽煙的量(轉換)_timeseries6580585629372319131table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_白本資料_抽煙習慣分析(序列轉換)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern2271111892051430883.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_抽煙習慣分析(序列轉換)_timeseries6950402987212328892table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_抽煙習慣分析(序列轉換)_timeseries241436850133663872pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_抽煙習慣分析(序列轉換)_timeseries7090029187776364529table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_白本資料_教育程度(區分國高中)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern2983083233595170936.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_教育程度(區分國高中)_timeseries2617124178074025776table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_教育程度(區分國高中)_timeseries8837011930722073610pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_教育程度(區分國高中)_timeseries5286242005012911044table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_白本資料_有氧運動類(轉換)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern1371421587797914074.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_有氧運動類(轉換)_timeseries8813004084639138314table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_有氧運動類(轉換)_timeseries9115914962444684756pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_有氧運動類(轉換)_timeseries2459945635640867183table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_白本資料_激烈運動(轉換)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern7850258620917104676.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_激烈運動(轉換)_timeseries5184517081224580779table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_激烈運動(轉換)_timeseries7717245705428306762pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_激烈運動(轉換)_timeseries3898222803043109900table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_白本資料_濃茶或淡茶(轉換)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern6512962639353790250.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_濃茶或淡茶(轉換)_timeseries2208811189939529067table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_濃茶或淡茶(轉換)_timeseries203117504480219324pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_濃茶或淡茶(轉換)_timeseries3835785442490857426table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_白本資料_狹心症家族史(轉換)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern2909466421258203655.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_狹心症家族史(轉換)_timeseries2986595030486528436table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_狹心症家族史(轉換)_timeseries6345583694414032433pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_狹心症家族史(轉換)_timeseries8678133562059525480table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_白本資料_糖尿病家族史(轉換)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern2008266226396629576.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_糖尿病家族史(轉換)_timeseries943340834723301962table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_糖尿病家族史(轉換)_timeseries6801112976644268351pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_糖尿病家族史(轉換)_timeseries9216503432087173333table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_白本資料_肝病用藥(轉換)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern6709654188583828449.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_肝病用藥(轉換)_timeseries980078543801005318table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_肝病用藥(轉換)_timeseries4490686662687832912pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_肝病用藥(轉換)_timeseries3984270145431227052table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_白本資料_肝病病史(轉換)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern5975376046940305725.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_肝病病史(轉換)_timeseries1923701392501369451table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_肝病病史(轉換)_timeseries420650484663607269pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_肝病病史(轉換)_timeseries327007523338424968table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_白本資料_肝病發病年數(轉換)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern3471152174309154973.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_肝病發病年數(轉換)_timeseries4522112027480879948table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_肝病發病年數(轉換)_timeseries1041393226138118193pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_肝病發病年數(轉換)_timeseries5905417214512292811table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_白本資料_腎臟病用藥(轉換)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern3739750327758467382.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_腎臟病用藥(轉換)_timeseries5636400045049565606table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_腎臟病用藥(轉換)_timeseries127293426612802149pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_腎臟病用藥(轉換)_timeseries8924849886415012263table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_白本資料_腎臟病病史(轉換)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern7744954847676907595.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_腎臟病病史(轉換)_timeseries1420719676728378434table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_腎臟病病史(轉換)_timeseries5562708896135570249pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_腎臟病病史(轉換)_timeseries7419705650755929059table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_白本資料_腎臟病發病年數(轉換)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern4020504973825026448.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_腎臟病發病年數(轉換)_timeseries1460528015781364616table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_腎臟病發病年數(轉換)_timeseries6358082398501541735pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_腎臟病發病年數(轉換)_timeseries5216788702370613628table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_白本資料_腦中風家族史(轉換)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern2066549168112838348.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_腦中風家族史(轉換)_timeseries7847132123911072925table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_腦中風家族史(轉換)_timeseries7238922572767155046pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_腦中風家族史(轉換)_timeseries5770457346334587298table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_白本資料_腦中風用藥(轉換)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern6348139088229505536.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_腦中風用藥(轉換)_timeseries6296698822887275284table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_腦中風用藥(轉換)_timeseries5866564855109706588pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_腦中風用藥(轉換)_timeseries6214961774027073609table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_白本資料_腦中風病史(轉換)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern2861022392800162987.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_腦中風病史(轉換)_timeseries1679104501781724411table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_腦中風病史(轉換)_timeseries433603328211880463pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_腦中風病史(轉換)_timeseries6566883037952604041table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_白本資料_腦中風發病年數(轉換)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern4886687584271857005.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_腦中風發病年數(轉換)_timeseries6454463905502934829table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_腦中風發病年數(轉換)_timeseries319909633980257054pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_腦中風發病年數(轉換)_timeseries2548855586227253373table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_白本資料_舉重或健身房(轉換)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern5300393892942746035.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_舉重或健身房(轉換)_timeseries1046227661689736958table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_舉重或健身房(轉換)_timeseries1005332425552168679pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_舉重或健身房(轉換)_timeseries5774629465241561485table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_白本資料_血脂過高用藥(轉換)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern4777764250061668693.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_血脂過高用藥(轉換)_timeseries2789857193499972907table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_血脂過高用藥(轉換)_timeseries8102050709158856510pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_血脂過高用藥(轉換)_timeseries232402878778829270table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_白本資料_血脂過高病史(轉換)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern2275899592654220374.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_血脂過高病史(轉換)_timeseries8156612917607724595table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_血脂過高病史(轉換)_timeseries7649095723207543368pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_血脂過高病史(轉換)_timeseries3037992886546367605table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_白本資料_血脂過高發病年數(轉換)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern3126906937489087718.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_血脂過高發病年數(轉換)_timeseries1994245941148871580table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_血脂過高發病年數(轉換)_timeseries6732441316837883002pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_血脂過高發病年數(轉換)_timeseries8071190192145626457table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_白本資料_高血壓家族史(轉換)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern7265360031802232229.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_高血壓家族史(轉換)_timeseries5573416538467399852table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_高血壓家族史(轉換)_timeseries3517106878203820965pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_高血壓家族史(轉換)_timeseries645897632200683766table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_白本資料_高血壓用藥(轉換)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern3035474378546099487.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_高血壓用藥(轉換)_timeseries3431121171682010173table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_高血壓用藥(轉換)_timeseries6096413697280986936pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_高血壓用藥(轉換)_timeseries5301275099874700692table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_白本資料_高血壓病史(轉換)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern6035328368795045793.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_高血壓病史(轉換)_timeseries1340867506382246372table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_高血壓病史(轉換)_timeseries1550764954347005100pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_高血壓病史(轉換)_timeseries8249566614857087781table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_白本資料_高血壓發病年數(轉換)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern3906278450025365451.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_高血壓發病年數(轉換)_timeseries7578699156198882831table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_高血壓發病年數(轉換)_timeseries6363000037387492872pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_白本資料_高血壓發病年數(轉換)_timeseries5705442619331108474table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_糖尿病篩檢_口服葡萄糖耐性試驗(轉值)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern1108929250510518341.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_糖尿病篩檢_口服葡萄糖耐性試驗(轉值)_timeseries1721071016985371178table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_糖尿病篩檢_口服葡萄糖耐性試驗(轉值)_timeseries8380337862120335803pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_糖尿病篩檢_口服葡萄糖耐性試驗(轉值)_timeseries7659547441736350879table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_糖尿病篩檢_糖化血色素(轉值)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern8886743107049345554.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_糖尿病篩檢_糖化血色素(轉值)_timeseries5356008944241428586table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_糖尿病篩檢_糖化血色素(轉值)_timeseries2200525576747712277pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_糖尿病篩檢_糖化血色素(轉值)_timeseries5476172019233485459table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_肝臟功能_GOT(轉值)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern181230252152297132.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_肝臟功能_GOT(轉值)_timeseries7956776722536687775table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_肝臟功能_GOT(轉值)_timeseries652147984875152825pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_肝臟功能_GOT(轉值)_timeseries7603036292781736089table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_肝臟功能_GPT(轉值)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern6945226988697465372.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_肝臟功能_GPT(轉值)_timeseries3033428866567188479table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_肝臟功能_GPT(轉值)_timeseries992535719248811321pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_肝臟功能_GPT(轉值)_timeseries2111139845008403878table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_肝臟功能_白蛋白及球蛋白_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern6386654789495906988.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_肝臟功能_白蛋白及球蛋白_timeseries8080166206302937295table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_肝臟功能_白蛋白及球蛋白_timeseries5201432718019061517pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_肝臟功能_白蛋白及球蛋白_timeseries1509316257511303262table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_肥胖度檢查_腰圍(轉值)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern8187461672625365335.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_肥胖度檢查_腰圍(轉值)_timeseries6079090872073050947table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_肥胖度檢查_腰圍(轉值)_timeseries4296850781834022697pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_肥胖度檢查_腰圍(轉值)_timeseries4356833377871013586table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_肥胖度檢查_臀圍(轉值)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern7202864251432984752.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_肥胖度檢查_臀圍(轉值)_timeseries400151675648422407table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_肥胖度檢查_臀圍(轉值)_timeseries4499563491811466497pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_肥胖度檢查_臀圍(轉值)_timeseries5197283874353625935table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_肥胖度檢查_身高_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern2109942618408924988.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_肥胖度檢查_身高_timeseries8623447857977000605table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_肥胖度檢查_身高_timeseries2696035996883746900pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_肥胖度檢查_身高_timeseries7060769926690611403table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_肥胖度檢查_體重_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern3412832744992842431.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_肥胖度檢查_體重_timeseries9078401287703802298table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_肥胖度檢查_體重_timeseries6312163526756224783pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_肥胖度檢查_體重_timeseries5197955042055596524table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_腎臟功能_上皮細胞_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern4875792746274167644.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_腎臟功能_上皮細胞_timeseries8424604235333273049table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_腎臟功能_上皮細胞_timeseries4524567608410791768pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_腎臟功能_上皮細胞_timeseries6949315288939337872table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_腎臟功能_亞硝酸(轉換)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern5989281611494391757.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_腎臟功能_亞硝酸(轉換)_timeseries4621573836220306588table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_腎臟功能_亞硝酸(轉換)_timeseries6983062487329526726pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_腎臟功能_亞硝酸(轉換)_timeseries1472361535058277306table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_腎臟功能_圓柱體_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern1967128629135734512.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_腎臟功能_圓柱體_timeseries1033563523148087664table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_腎臟功能_圓柱體_timeseries5106098842247540273pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_腎臟功能_圓柱體_timeseries7987978635056305390table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_腎臟功能_尿素氮(轉值)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern2546557314472061614.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_腎臟功能_尿素氮(轉值)_timeseries2024118319079793144table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_腎臟功能_尿素氮(轉值)_timeseries7467566358413463487pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_腎臟功能_尿素氮(轉值)_timeseries7348510661466754960table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_腎臟功能_尿膽素原_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern7187652602566819331.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_腎臟功能_尿膽素原_timeseries7678612688981569931table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_腎臟功能_尿膽素原_timeseries3503508286944612483pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_腎臟功能_尿膽素原_timeseries5783212125227028891table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_腎臟功能_比重(轉值)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern2067657995865933496.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_腎臟功能_比重(轉值)_timeseries4212605982962469524table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_腎臟功能_比重(轉值)_timeseries5521959192166561649pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_腎臟功能_比重(轉值)_timeseries6039329242410381652table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_腎臟功能_白血球反應(轉換)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern1550773453841068002.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_腎臟功能_白血球反應(轉換)_timeseries2919529499013888580table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_腎臟功能_白血球反應(轉換)_timeseries4279840728678838553pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_腎臟功能_白血球反應(轉換)_timeseries7076345648287220571table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_腎臟功能_白血球數_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern3689285587152807754.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_腎臟功能_白血球數_timeseries9003850768515173318table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_腎臟功能_白血球數_timeseries3105164279050106898pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_腎臟功能_白血球數_timeseries1465754211490339977table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_腎臟功能_糖(轉換)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern1009443940111817043.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_腎臟功能_糖(轉換)_timeseries8439770285740318397table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_腎臟功能_糖(轉換)_timeseries5930421473322744699pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_腎臟功能_糖(轉換)_timeseries7689018046200830996table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_腎臟功能_紅血球反應(轉換)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern2262467593690389267.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_腎臟功能_紅血球反應(轉換)_timeseries7016211144238510069table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_腎臟功能_紅血球反應(轉換)_timeseries106020032821365852pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_腎臟功能_紅血球反應(轉換)_timeseries4464973600149926033table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_腎臟功能_紅血球數_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern7841816179436119125.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_腎臟功能_紅血球數_timeseries4451377758563729482table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_腎臟功能_紅血球數_timeseries3906562695813790090pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_腎臟功能_紅血球數_timeseries1476761873382967535table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_腎臟功能_細菌_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern9006968363067280044.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_腎臟功能_細菌_timeseries3492323988209331521table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_腎臟功能_細菌_timeseries1155272618576687209pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_腎臟功能_細菌_timeseries2040796876385430578table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_腎臟功能_結晶體_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern9080227967133035965.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_腎臟功能_結晶體_timeseries802759358602115295table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_腎臟功能_結晶體_timeseries7142218541979582567pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_腎臟功能_結晶體_timeseries707439228947783516table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_腎臟功能_肌酸酐(轉值)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern3956473424580832831.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_腎臟功能_肌酸酐(轉值)_timeseries6899855213422880447table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_腎臟功能_肌酸酐(轉值)_timeseries1800096522775304074pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_腎臟功能_肌酸酐(轉值)_timeseries6571502650357930033table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_腎臟功能_膽紅素(轉換)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern6818456232304927062.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_腎臟功能_膽紅素(轉換)_timeseries3964217626571543811table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_腎臟功能_膽紅素(轉換)_timeseries8091804400180924616pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_腎臟功能_膽紅素(轉換)_timeseries4478479541957066051table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_腎臟功能_蛋白質(轉換)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern8114248254372269850.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_腎臟功能_蛋白質(轉換)_timeseries5770400947153681329table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_腎臟功能_蛋白質(轉換)_timeseries1421907859099134470pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_腎臟功能_蛋白質(轉換)_timeseries2454856109315823945table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_腎臟功能_酮體(轉換)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern5492781924337211064.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_腎臟功能_酮體(轉換)_timeseries7909502674294937664table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_腎臟功能_酮體(轉換)_timeseries7162939711781399647pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_腎臟功能_酮體(轉換)_timeseries352535795050566336table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_腎臟功能_酸鹼度(轉值)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern1736096048821557513.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_腎臟功能_酸鹼度(轉值)_timeseries8920419626403360712table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_腎臟功能_酸鹼度(轉值)_timeseries4121950271731764007pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_腎臟功能_酸鹼度(轉值)_timeseries1402600757814686695table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_血脂肪_三酸甘油脂(轉值)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern4739904760915578641.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_血脂肪_三酸甘油脂(轉值)_timeseries5086948447499641193table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_血脂肪_三酸甘油脂(轉值)_timeseries4506807096512634057pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_血脂肪_三酸甘油脂(轉值)_timeseries8225072889306610285table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_血脂肪_總膽固醇(轉值)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern424142070663063160.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_血脂肪_總膽固醇(轉值)_timeseries2969908060918141562table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_血脂肪_總膽固醇(轉值)_timeseries1596271145946212316pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_血脂肪_總膽固醇(轉值)_timeseries5776813036654827821table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_血脂肪_高密度膽固醇(轉值)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern498908350252172253.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_血脂肪_高密度膽固醇(轉值)_timeseries5828852598494390332table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_血脂肪_高密度膽固醇(轉值)_timeseries6257029046920520890pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_血脂肪_高密度膽固醇(轉值)_timeseries8064388368989133000table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_貧血及血癌篩檢_白血球(轉值)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern4836234850826292286.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_貧血及血癌篩檢_白血球(轉值)_timeseries1493151004575737586table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_貧血及血癌篩檢_白血球(轉值)_timeseries1720661925167531466pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_貧血及血癌篩檢_白血球(轉值)_timeseries6459098331178263437table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_貧血及血癌篩檢_紅血球(轉值)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern4124843521090658393.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_貧血及血癌篩檢_紅血球(轉值)_timeseries2994940898602499432table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_貧血及血癌篩檢_紅血球(轉值)_timeseries7224160668490657640pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_貧血及血癌篩檢_紅血球(轉值)_timeseries1883198083469031646table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_貧血及血癌篩檢_血小板(轉值)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern4081371693418119131.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_貧血及血癌篩檢_血小板(轉值)_timeseries1671822211034988297table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_貧血及血癌篩檢_血小板(轉值)_timeseries5608656147656286661pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_貧血及血癌篩檢_血小板(轉值)_timeseries6327870978600490093table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_貧血及血癌篩檢_血紅色素(轉值)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern1596032185237754800.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_貧血及血癌篩檢_血紅色素(轉值)_timeseries5690397035711068667table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_貧血及血癌篩檢_血紅色素(轉值)_timeseries7801006483728429592pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_貧血及血癌篩檢_血紅色素(轉值)_timeseries3019422153267238295table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_電解質平衡_CA(轉值)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern2344777526967973799.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_電解質平衡_CA(轉值)_timeseries2346648337699912551table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_電解質平衡_CA(轉值)_timeseries4098021867129261751pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_電解質平衡_CA(轉值)_timeseries1586315336229554561table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_電解質平衡_CL(轉值)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern4206016416269488978.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_電解質平衡_CL(轉值)_timeseries7235727751741049977table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_電解質平衡_CL(轉值)_timeseries7419635593990029703pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_電解質平衡_CL(轉值)_timeseries5679428460542408557table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_電解質平衡_K(轉值)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern142247342429493476.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_電解質平衡_K(轉值)_timeseries1649887980593787743table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_電解質平衡_K(轉值)_timeseries7206825811995317456pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_電解質平衡_K(轉值)_timeseries3963674802734630209table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_電解質平衡_NA(轉值)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern5279496545052064331.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_電解質平衡_NA(轉值)_timeseries977183478754926651table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_電解質平衡_NA(轉值)_timeseries7543341832881314734pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_電解質平衡_NA(轉值)_timeseries2878479587546689964table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_電解質平衡_P(轉值)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern2367967959681346309.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_電解質平衡_P(轉值)_timeseries6994650138827433510table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_電解質平衡_P(轉值)_timeseries5494036418931818909pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_電解質平衡_P(轉值)_timeseries3357612700816665591table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_青光眼及視網膜檢查_眼壓_右(轉值)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern6187821942520700495.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_青光眼及視網膜檢查_眼壓_右(轉值)_timeseries9156329118438533804table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_青光眼及視網膜檢查_眼壓_右(轉值)_timeseries470610531912643143pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_青光眼及視網膜檢查_眼壓_右(轉值)_timeseries2745120870337673241table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_青光眼及視網膜檢查_眼壓_左(轉值)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern6035594677785281894.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_青光眼及視網膜檢查_眼壓_左(轉值)_timeseries542778553898502404table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_青光眼及視網膜檢查_眼壓_左(轉值)_timeseries3086556236852834037pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_青光眼及視網膜檢查_眼壓_左(轉值)_timeseries2916586787259172235table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_青光眼及視網膜檢查_眼底_右_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern526024846066110192.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_青光眼及視網膜檢查_眼底_右_timeseries3373170965197237589table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_青光眼及視網膜檢查_眼底_右_timeseries534643822965521844pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_青光眼及視網膜檢查_眼底_右_timeseries3744002545563200189table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_青光眼及視網膜檢查_眼底_左_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern6374352258119980547.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_青光眼及視網膜檢查_眼底_左_timeseries1828578428410718065table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_青光眼及視網膜檢查_眼底_左_timeseries6637627622188926672pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_青光眼及視網膜檢查_眼底_左_timeseries1786685928716365037table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_青光眼及視網膜檢查_瞳孔光反應_右_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern5231991675572400447.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_青光眼及視網膜檢查_瞳孔光反應_右_timeseries8536331780266852085table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_青光眼及視網膜檢查_瞳孔光反應_右_timeseries2458582762702368776pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_青光眼及視網膜檢查_瞳孔光反應_右_timeseries780874601335475400table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_青光眼及視網膜檢查_瞳孔光反應_左_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern7999488219366504009.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_青光眼及視網膜檢查_瞳孔光反應_左_timeseries8528861123935498511table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_青光眼及視網膜檢查_瞳孔光反應_左_timeseries3925583531354578060pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_青光眼及視網膜檢查_瞳孔光反應_左_timeseries2785843077118224958table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_青光眼及視網膜檢查_瞳孔大小_右(轉換)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern4961493706805437747.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_青光眼及視網膜檢查_瞳孔大小_右(轉換)_timeseries544344580000619523table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_青光眼及視網膜檢查_瞳孔大小_右(轉換)_timeseries4179978284055472678pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_青光眼及視網膜檢查_瞳孔大小_右(轉換)_timeseries7685617742653418427table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_青光眼及視網膜檢查_瞳孔大小_左_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern1021142432929006292.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_青光眼及視網膜檢查_瞳孔大小_左_timeseries2256742137765717030table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_青光眼及視網膜檢查_瞳孔大小_左_timeseries8774440162317243125pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_青光眼及視網膜檢查_瞳孔大小_左_timeseries5614511252105569629table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_青光眼及視網膜檢查_瞳孔形狀_右(轉換)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern8743909314739324944.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_青光眼及視網膜檢查_瞳孔形狀_右(轉換)_timeseries3828475109056293121table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_青光眼及視網膜檢查_瞳孔形狀_右(轉換)_timeseries8997965418520896567pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_青光眼及視網膜檢查_瞳孔形狀_右(轉換)_timeseries3256855360637714716table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_青光眼及視網膜檢查_瞳孔形狀_左_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern6776366254190019981.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_青光眼及視網膜檢查_瞳孔形狀_左_timeseries2853160364245207056table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_青光眼及視網膜檢查_瞳孔形狀_左_timeseries5781955162940053364pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_青光眼及視網膜檢查_瞳孔形狀_左_timeseries7848611945204964790table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_骨質疏鬆症篩檢_BUA_T(轉值)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern6563159959355359654.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_骨質疏鬆症篩檢_BUA_T(轉值)_timeseries3076006601992835429table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_骨質疏鬆症篩檢_BUA_T(轉值)_timeseries5026552025821539754pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_骨質疏鬆症篩檢_BUA_T(轉值)_timeseries146257617593924451table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_高血壓篩檢_收縮壓(右手)(轉值)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern8808369033630757875.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_高血壓篩檢_收縮壓(右手)(轉值)_timeseries8382422038741375208table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_高血壓篩檢_收縮壓(右手)(轉值)_timeseries6671367440199517059pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_高血壓篩檢_收縮壓(右手)(轉值)_timeseries4414886050352685863table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_高血壓篩檢_脈搏(右手)(轉值)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern5158518682032136267.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_高血壓篩檢_脈搏(右手)(轉值)_timeseries7255411695579685728table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_高血壓篩檢_脈搏(右手)(轉值)_timeseries6690183708151582928pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_高血壓篩檢_脈搏(右手)(轉值)_timeseries7116239622927272474table.arff
+
+[file path] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\classinstall\sqlfile_output_高血壓篩檢_舒張壓(右手)(轉值)_timeseries.txt
+[class pattern file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\combine_pattern9092206570165738523.tmp
+[table format file] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_高血壓篩檢_舒張壓(右手)(轉值)_timeseries7199452517934077229table.tmp
+[pattern_sn_filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_高血壓篩檢_舒張壓(右手)(轉值)_timeseries9068235639909888150pattern_sn.tmp
+[arff filename] D:\project\III\2009\Integrated_HealthAnalysisSys\糖尿病(A)\seq_patterns_arffs\sqlfile_output_高血壓篩檢_舒張壓(右手)(轉值)_timeseries3127083002466775155table.arff
+

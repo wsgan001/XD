@@ -1,0 +1,4 @@
+SAX_STEP_VALUE
+20
+data/japanese_vowels/my_ae_train.txt,data/japanese_vowels/my_ae_test.txt,
+data/japanese_vowels/train_SV20,data/japanese_vowels/test_SV20,

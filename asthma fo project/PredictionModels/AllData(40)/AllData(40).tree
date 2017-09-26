@@ -1,0 +1,11 @@
+digraph J48Tree {
+N0 [label="[D:Lobby_tempIIIIntegrated_HealthAnalysisSys.AllData(40)seq_patterns_arffssqlfile_output_糖尿病篩檢_糖化血色素_pattern] 5.1" ]
+N0->N1 [label="<= 0"]
+N1 [label="C2 (74.0)" shape=box style=filled ]
+N0->N2 [label="> 0"]
+N2 [label="sqlfile_output_基本資料與身體評估_檢查日_timeseries.txt" ]
+N2->N3 [label="<= 960618"]
+N3 [label="C2 (3.0)" shape=box style=filled ]
+N2->N4 [label="> 960618"]
+N4 [label="C3 (77.0)" shape=box style=filled ]
+}

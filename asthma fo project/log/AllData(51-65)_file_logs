@@ -1,0 +1,822 @@
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_基本資料與身體評估_BMI_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern2291051923547237174.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_BMI_timeseries4555196956406451177table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_BMI_timeseries1527231222354949472pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_BMI_timeseries5501201145133444177table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_基本資料與身體評估_乳房_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern4987481413418002517.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_乳房_timeseries5031845763292714051table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_乳房_timeseries3220372027636122470pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_乳房_timeseries3115120873973769183table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_基本資料與身體評估_四肢_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern5711912616108563290.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_四肢_timeseries2600714626265302465table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_四肢_timeseries6022777328401481580pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_四肢_timeseries4425827246624492577table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_基本資料與身體評估_心臟_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern5341554545591595060.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_心臟_timeseries8709792086598595028table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_心臟_timeseries2627571770917227231pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_心臟_timeseries6339275827486685431table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_基本資料與身體評估_感覺功能_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern8554370930741015204.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_感覺功能_timeseries3336189388246611823table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_感覺功能_timeseries1019384640754969375pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_感覺功能_timeseries5388206608535622159table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_基本資料與身體評估_攝護腺_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern1853388057999597815.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_攝護腺_timeseries8125450162388023155table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_攝護腺_timeseries8630193146088375508pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_攝護腺_timeseries3385996394820367729table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_基本資料與身體評估_檢查日_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern2011592661738044549.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_檢查日_timeseries3497471827889878388table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_檢查日_timeseries2705359133213433355pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_檢查日_timeseries74778925210049061table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_基本資料與身體評估_水腫_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern7296813476836353354.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_水腫_timeseries5132145169776399035table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_水腫_timeseries7195927853740855062pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_水腫_timeseries2039599940908620533table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_基本資料與身體評估_深腱反射_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern7921946843706045504.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_深腱反射_timeseries3885388965763227480table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_深腱反射_timeseries1329420349388621698pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_深腱反射_timeseries2950086670536993311table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_基本資料與身體評估_淺部反射_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern4363350725936852981.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_淺部反射_timeseries1234044243139767414table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_淺部反射_timeseries2576450140168747850pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_淺部反射_timeseries4286610065683796490table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_基本資料與身體評估_生日_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern960823241265890264.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_生日_timeseries206676733903428331table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_生日_timeseries8059992694172106260pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_生日_timeseries5357239217932838479table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_基本資料與身體評估_甲狀腺_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern6762664037244449552.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_甲狀腺_timeseries7665848169024746029table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_甲狀腺_timeseries5706866082087495371pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_甲狀腺_timeseries4937925768275164924table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_基本資料與身體評估_病史_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern387520635335268151.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_病史_timeseries4740704934544603470table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_病史_timeseries3575768443827847067pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_病史_timeseries1875754893977043382table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_基本資料與身體評估_病歷號_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern8923539145991517389.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_病歷號_timeseries4799316645061897444table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_病歷號_timeseries1043570267065205239pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_病歷號_timeseries6276915294669651706table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_基本資料與身體評估_皮膚_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern5434973525576241657.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_皮膚_timeseries5098276110229857155table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_皮膚_timeseries4136561726345132322pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_皮膚_timeseries7088997981739347615table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_基本資料與身體評估_肌肉及肌腱_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern2900178731709762947.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_肌肉及肌腱_timeseries3433816455375780305table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_肌肉及肌腱_timeseries2592069325459281413pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_肌肉及肌腱_timeseries4588897070210378588table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_基本資料與身體評估_肝臟_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern7297525112064956793.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_肝臟_timeseries4499347737901775698table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_肝臟_timeseries2831601560237359934pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_肝臟_timeseries636679880784222001table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_基本資料與身體評估_肺臟_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern3640319406429815866.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_肺臟_timeseries844792180744285170table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_肺臟_timeseries1646870963201767458pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_肺臟_timeseries7608770996540701835table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_基本資料與身體評估_胸部外貌_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern3520133009408323306.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_胸部外貌_timeseries2083769606896314854table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_胸部外貌_timeseries4114095689911456021pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_胸部外貌_timeseries138442965225019765table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_基本資料與身體評估_脊椎_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern6838190668450717778.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_脊椎_timeseries9033912095796650877table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_脊椎_timeseries3908905640435090282pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_脊椎_timeseries3412717963443393937table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_基本資料與身體評估_脾臟_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern6741538849120190694.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_脾臟_timeseries3257550735254841491table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_脾臟_timeseries6179578833679934718pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_脾臟_timeseries4651607086670648495table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_基本資料與身體評估_腎臟_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern6869494078574337555.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_腎臟_timeseries7965338617854804103table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_腎臟_timeseries1458626214608736889pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_腎臟_timeseries9038204998081712575table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_基本資料與身體評估_腹股溝_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern6687842470921374717.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_腹股溝_timeseries523825502563636201table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_腹股溝_timeseries210645904766108473pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_腹股溝_timeseries2522532452448963816table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_基本資料與身體評估_腹部外貌_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern1280106700162834639.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_腹部外貌_timeseries7433609510760814454table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_腹部外貌_timeseries7278142398238406415pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_腹部外貌_timeseries9219206496087343580table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_基本資料與身體評估_腹部扣診_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern9048543024642480668.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_腹部扣診_timeseries7234992091896932394table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_腹部扣診_timeseries206647896564513861pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_腹部扣診_timeseries2480696723545419440table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_基本資料與身體評估_腹部疤痕_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern4604935069239638932.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_腹部疤痕_timeseries1007293808722392873table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_腹部疤痕_timeseries8014039966521438870pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_腹部疤痕_timeseries1327736914519732827table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_基本資料與身體評估_腹部觸診_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern1997633662650791187.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_腹部觸診_timeseries2750516967171961054table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_腹部觸診_timeseries6992537729419522055pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_腹部觸診_timeseries2884046114954364212table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_基本資料與身體評估_運動功能_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern9048085007641587087.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_運動功能_timeseries8950216198012638527table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_運動功能_timeseries7719259028171118267pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_運動功能_timeseries1244706233984276742table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_基本資料與身體評估_頸動脈_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern8355992975875778256.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_頸動脈_timeseries4483226447451670288table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_頸動脈_timeseries3669473184886751420pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_頸動脈_timeseries9180471558879575247table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_基本資料與身體評估_頸靜脈_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern3094688318455995084.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_頸靜脈_timeseries9105815060780140137table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_頸靜脈_timeseries8945629810451093571pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_頸靜脈_timeseries8187930338390924046table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_基本資料與身體評估_體位_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern5503521641989764846.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_體位_timeseries7356760549906575175table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_體位_timeseries7216596636757704573pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_體位_timeseries7588651112287479232table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_基本資料與身體評估_體位注意事項_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern3377264276589702508.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_體位注意事項_timeseries3124776172800066026table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_體位注意事項_timeseries7565640215097624787pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_基本資料與身體評估_體位注意事項_timeseries5054651668203475205table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_白本資料_一天抽幾支煙_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern5472232538489253062.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_一天抽幾支煙_timeseries4008758595728985498table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_一天抽幾支煙_timeseries3906567810615754197pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_一天抽幾支煙_timeseries1958579645272339265table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_白本資料_保齡球_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern5249659402261298049.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_保齡球_timeseries7190865105171947495table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_保齡球_timeseries8648167125820605541pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_保齡球_timeseries2858675443616048320table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_白本資料_健行_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern2380154937029805857.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_健行_timeseries3537336435401384834table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_健行_timeseries6799261497383665688pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_健行_timeseries6696594226430365489table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_白本資料_其他_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern5287164924429891621.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_其他_timeseries8459452769256313234table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_其他_timeseries8189283322754209315pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_其他_timeseries7368974441761951869table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_白本資料_加糖或奶精_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern8507007435455069901.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_加糖或奶精_timeseries4030986563474758842table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_加糖或奶精_timeseries8047910439826552756pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_加糖或奶精_timeseries3074881386768929302table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_白本資料_喝咖啡_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern6959347540752510278.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_喝咖啡_timeseries6847196895281011075table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_喝咖啡_timeseries7964511001071059119pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_喝咖啡_timeseries7366367848728251940table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_白本資料_喝哪種茶_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern5402297668778986902.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_喝哪種茶_timeseries653165558725813187table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_喝哪種茶_timeseries444769064706577964pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_喝哪種茶_timeseries6202287821609622016table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_白本資料_喝茶年數_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern2718118355293309016.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_喝茶年數_timeseries8597534797598077496table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_喝茶年數_timeseries5074247764951797751pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_喝茶年數_timeseries4386375657022359072table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_白本資料_喝茶的習慣_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern2834157081720029671.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_喝茶的習慣_timeseries4736372119207170442table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_喝茶的習慣_timeseries2846389014450767048pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_喝茶的習慣_timeseries3272541178122263082table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_白本資料_喝茶頻率_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern2822123983432361519.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_喝茶頻率_timeseries4481219746890045659table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_喝茶頻率_timeseries7104641715490576600pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_喝茶頻率_timeseries296391698447640093table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_白本資料_喝酒年數_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern1186002568776107624.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_喝酒年數_timeseries8284334415423367680table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_喝酒年數_timeseries5922748374387753508pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_喝酒年數_timeseries5395873032880865570table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_白本資料_喝酒的習慣_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern3234089105394686654.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_喝酒的習慣_timeseries5601270687817055022table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_喝酒的習慣_timeseries7364651485871129158pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_喝酒的習慣_timeseries8014931121005292526table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_白本資料_嚼檳榔年數_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern912590803284887280.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_嚼檳榔年數_timeseries1373211777852295632table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_嚼檳榔年數_timeseries4725336200979881943pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_嚼檳榔年數_timeseries8965572597172047408table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_白本資料_嚼檳榔的習慣_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern3640646875558000621.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_嚼檳榔的習慣_timeseries6821755249054626256table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_嚼檳榔的習慣_timeseries2602055568526113509pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_嚼檳榔的習慣_timeseries8211235164258539355table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_白本資料_國術或空手道_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern444225290894907392.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_國術或空手道_timeseries2255818986770084249table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_國術或空手道_timeseries377618163875561048pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_國術或空手道_timeseries5348535796313983422table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_白本資料_園藝_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern8578126733350940781.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_園藝_timeseries4517676243877646618table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_園藝_timeseries6524342445080435458pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_園藝_timeseries8308866988711891693table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_白本資料_婚姻狀態_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern7979715966288736120.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_婚姻狀態_timeseries1738830958534407980table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_婚姻狀態_timeseries1995166458928566348pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_婚姻狀態_timeseries8937210606609560501table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_白本資料_尿酸過高用藥_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern6616993551573063190.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_尿酸過高用藥_timeseries5136271230366530679table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_尿酸過高用藥_timeseries8920764501174604403pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_尿酸過高用藥_timeseries4421266600700437297table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_白本資料_尿酸過高病史_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern7531918256613939996.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_尿酸過高病史_timeseries4255099761021459317table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_尿酸過高病史_timeseries2625462528036070751pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_尿酸過高病史_timeseries7736536903292249762table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_白本資料_尿酸過高發病年數_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern3766826385045676117.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_尿酸過高發病年數_timeseries1076825520037301648table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_尿酸過高發病年數_timeseries2661124806614096527pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_尿酸過高發病年數_timeseries7151155222595644588table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_白本資料_平均一天嚼幾口_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern4053464399114255924.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_平均一天嚼幾口_timeseries4374757461577395537table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_平均一天嚼幾口_timeseries8778327673967717506pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_平均一天嚼幾口_timeseries6715902489065938124table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_白本資料_心律不整用藥_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern7603355407752024627.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_心律不整用藥_timeseries4392667699128573365table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_心律不整用藥_timeseries8989080104349289868pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_心律不整用藥_timeseries6210972602864656187table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_白本資料_心律不整病史_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern4938878719683529250.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_心律不整病史_timeseries4510103565293390184table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_心律不整病史_timeseries598272669108101599pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_心律不整病史_timeseries3613128314645664618table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_白本資料_心律不整發病年數_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern4362649904993144585.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_心律不整發病年數_timeseries902984017762866152table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_心律不整發病年數_timeseries3660505349359678462pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_心律不整發病年數_timeseries1118148946389512471table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_白本資料_心肌梗塞家族史_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern1482188596552673668.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_心肌梗塞家族史_timeseries8170760097032321412table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_心肌梗塞家族史_timeseries8564372313881789038pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_心肌梗塞家族史_timeseries1030718715774199636table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_白本資料_心臟病用藥_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern6879879259682297362.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_心臟病用藥_timeseries5699473321771508057table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_心臟病用藥_timeseries5807009601234094141pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_心臟病用藥_timeseries8193306349333755673table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_白本資料_心臟病病史_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern6169949475251556641.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_心臟病病史_timeseries7388560849999262526table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_心臟病病史_timeseries7109818289989388145pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_心臟病病史_timeseries7580080289254471487table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_白本資料_心臟病發病年數_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern3873393458153482037.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_心臟病發病年數_timeseries5221473178640022611table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_心臟病發病年數_timeseries1376306613479405052pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_心臟病發病年數_timeseries3759109231056793932table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_白本資料_性別_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern6298969302442278149.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_性別_timeseries4053269153274348302table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_性別_timeseries8384331975815397544pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_性別_timeseries1452957213219028166table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_白本資料_慢跑_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern8492626609470324839.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_慢跑_timeseries4744944335235767477table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_慢跑_timeseries218316299921543358pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_慢跑_timeseries8502370238726323889table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_白本資料_抽幾年煙_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern9197006543990020927.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_抽幾年煙_timeseries480902075893777892table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_抽幾年煙_timeseries1740215699198084511pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_抽幾年煙_timeseries5862082700351350354table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_白本資料_抽煙的習慣_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern7545010044549098189.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_抽煙的習慣_timeseries2140911830691246796table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_抽煙的習慣_timeseries4246137867357341359pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_抽煙的習慣_timeseries1226920817512090381table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_白本資料_排球_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern8611225991405095085.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_排球_timeseries9001238324370400064table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_排球_timeseries5916078555714358401pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_排球_timeseries5641585922096407646table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_白本資料_教育程度_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern1954056372310315360.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_教育程度_timeseries7868904347348102708table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_教育程度_timeseries8749997202175857413pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_教育程度_timeseries4383241661108142647table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_白本資料_散步走路_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern9177109405574412265.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_散步走路_timeseries4508411078182158464table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_散步走路_timeseries6620117113979800263pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_散步走路_timeseries1996118283627391292table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_白本資料_有氧舞蹈_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern1957745374369929391.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_有氧舞蹈_timeseries3502363017557897256table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_有氧舞蹈_timeseries4051530144165550837pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_有氧舞蹈_timeseries4572875368042018438table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_白本資料_桌球_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern4372210850285760986.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_桌球_timeseries6992467408345997419table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_桌球_timeseries7507462225064300933pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_桌球_timeseries8116646374658663797table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_白本資料_棒球或壘球_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern4056791877294832976.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_棒球或壘球_timeseries4756155392580859629table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_棒球或壘球_timeseries5277441241757788814pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_棒球或壘球_timeseries300501014913682224table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_白本資料_槌球_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern4388843286379054241.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_槌球_timeseries1715751997581512930table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_槌球_timeseries925936998047548013pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_槌球_timeseries1156902242821822786table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_白本資料_每天喝茶量_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern7992158239389107409.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_每天喝茶量_timeseries6925947661400001070table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_每天喝茶量_timeseries3585809556669106015pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_每天喝茶量_timeseries1065530616953852950table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_白本資料_每週酒精克數_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern860918455664553591.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_每週酒精克數_timeseries2659896499893714235table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_每週酒精克數_timeseries1458258773843116285pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_每週酒精克數_timeseries2193185326110489061table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_白本資料_游泳_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern2423338885717369864.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_游泳_timeseries1558259183702609323table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_游泳_timeseries946830197219091719pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_游泳_timeseries7055867037650143208table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_白本資料_激烈運動_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern584185429741584535.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_激烈運動_timeseries5460797969327525976table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_激烈運動_timeseries1023639568591348897pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_激烈運動_timeseries1738588208908724588table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_白本資料_濃茶或淡茶_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern4743264017204060713.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_濃茶或淡茶_timeseries3766251056973603593table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_濃茶或淡茶_timeseries8597378803031875270pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_濃茶或淡茶_timeseries6044431783756041134table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_白本資料_狹心症家族史_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern6684077547938807354.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_狹心症家族史_timeseries6933493862802348313table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_狹心症家族史_timeseries4000949823950642279pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_狹心症家族史_timeseries1518317907756250252table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_白本資料_現在有喝酒_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern2798854864050390609.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_現在有喝酒_timeseries4332689429108103870table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_現在有喝酒_timeseries1518663052886542167pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_現在有喝酒_timeseries6974322523258089285table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_白本資料_現在還喝茶_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern4118424441616199662.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_現在還喝茶_timeseries3410746255781808830table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_現在還喝茶_timeseries8051835892092751180pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_現在還喝茶_timeseries8943406772063287537table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_白本資料_現在還嚼檳榔_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern6716730286955138541.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_現在還嚼檳榔_timeseries6166034799740304630table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_現在還嚼檳榔_timeseries2165076336117575809pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_現在還嚼檳榔_timeseries5216199821966028480table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_白本資料_現在還抽煙_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern1287240258765660192.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_現在還抽煙_timeseries2658407566263296585table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_現在還抽煙_timeseries2584730027354501536pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_現在還抽煙_timeseries8171637812433024102table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_白本資料_社交舞_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern2215795536456880828.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_社交舞_timeseries2828827783465642396table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_社交舞_timeseries4981268599230710890pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_社交舞_timeseries3955874570048204241table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_白本資料_籃球_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern305540669884648869.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_籃球_timeseries1225944762462052053table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_籃球_timeseries1725524008794661091pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_籃球_timeseries3323327811210068927table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_白本資料_糖尿病家族史_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern3540138336657700299.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_糖尿病家族史_timeseries5386093300639539406table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_糖尿病家族史_timeseries7454741195739421974pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_糖尿病家族史_timeseries8565735099511361288table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_白本資料_糖尿病用藥_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern7961395448822100650.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_糖尿病用藥_timeseries8029212723861462069table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_糖尿病用藥_timeseries6648578129928719856pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_糖尿病用藥_timeseries3407560610872095218table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_白本資料_糖尿病病史_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern3008627569528376867.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_糖尿病病史_timeseries6414316640198754385table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_糖尿病病史_timeseries6205980877429122949pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_糖尿病病史_timeseries6074931296214213830table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_白本資料_糖尿病發病年數_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern5541501897209310509.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_糖尿病發病年數_timeseries771318469486879620table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_糖尿病發病年數_timeseries5403552685429090932pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_糖尿病發病年數_timeseries418416294340261929table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_白本資料_網球_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern8853963023948177823.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_網球_timeseries3808059937343370161table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_網球_timeseries2716272329716788205pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_網球_timeseries6026911203584681865table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_白本資料_羽毛球_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern5140131424885047046.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_羽毛球_timeseries1336682603168788732table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_羽毛球_timeseries2100420236728558792pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_羽毛球_timeseries5139099639873910794table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_白本資料_肝病用藥_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern2925869012109736310.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_肝病用藥_timeseries1155208124225628511table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_肝病用藥_timeseries5872160801381851411pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_肝病用藥_timeseries7682581220816923761table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_白本資料_肝病病史_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern4245005612744848170.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_肝病病史_timeseries391904143589708083table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_肝病病史_timeseries8373746355358428015pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_肝病病史_timeseries3992877193682363895table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_白本資料_肝病發病年數_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern7804686116570059684.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_肝病發病年數_timeseries1744544295619783164table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_肝病發病年數_timeseries766675724128978924pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_肝病發病年數_timeseries8057108449746123500table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_白本資料_腎臟病用藥_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern6108859741315697530.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_腎臟病用藥_timeseries6435114653720809638table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_腎臟病用藥_timeseries9110601212800876228pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_腎臟病用藥_timeseries494322822853601259table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_白本資料_腎臟病病史_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern867543890563159007.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_腎臟病病史_timeseries2140783789108741842table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_腎臟病病史_timeseries6050589040775364795pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_腎臟病病史_timeseries1399592906619711991table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_白本資料_腎臟病發病年數_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern64418491926470868.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_腎臟病發病年數_timeseries6613887086061093057table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_腎臟病發病年數_timeseries7995833902344137993pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_腎臟病發病年數_timeseries2340666458944748231table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_白本資料_腦中風家族史_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern8678905749945239927.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_腦中風家族史_timeseries5743044498540206785table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_腦中風家族史_timeseries5509117578578859334pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_腦中風家族史_timeseries653946834024769449table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_白本資料_腦中風用藥_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern6343192602917575036.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_腦中風用藥_timeseries4383944680346019725table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_腦中風用藥_timeseries2673859896392625527pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_腦中風用藥_timeseries1074752519107800861table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_白本資料_腦中風病史_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern7716981990195074765.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_腦中風病史_timeseries9206238147815912612table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_腦中風病史_timeseries144998317058099494pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_腦中風病史_timeseries7618739734410094335table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_白本資料_腦中風發病年數_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern8376677896622287816.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_腦中風發病年數_timeseries7389182455341159406table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_腦中風發病年數_timeseries4082824778971527225pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_腦中風發病年數_timeseries3023690893448406243table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_白本資料_舉重或健身房_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern5240726162590211592.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_舉重或健身房_timeseries1399425451078518100table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_舉重或健身房_timeseries1350687782015249359pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_舉重或健身房_timeseries2869499502534956896table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_白本資料_血脂過高用藥_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern8183799192921890649.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_血脂過高用藥_timeseries452739625501918656table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_血脂過高用藥_timeseries2594011790851716003pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_血脂過高用藥_timeseries8950848209441152752table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_白本資料_血脂過高病史_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern5851007394642095546.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_血脂過高病史_timeseries1342384231289417672table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_血脂過高病史_timeseries323591306853501736pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_血脂過高病史_timeseries1537999901852435827table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_白本資料_血脂過高發病年數_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern8854104441129951965.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_血脂過高發病年數_timeseries3833214484931458698table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_血脂過高發病年數_timeseries7154514198521654045pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_血脂過高發病年數_timeseries148841923345203324table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_白本資料_足球_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern73859153729316669.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_足球_timeseries229022222663736036table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_足球_timeseries7588921629341574108pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_足球_timeseries269784291757542135table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_白本資料_跳繩_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern4122376180858552769.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_跳繩_timeseries615775259474988843table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_跳繩_timeseries2096467131712666803pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_跳繩_timeseries8938684628083813150table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_白本資料_釣魚_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern1156934121169287482.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_釣魚_timeseries850592005470686888table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_釣魚_timeseries2877475381912138806pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_釣魚_timeseries7823467656940871622table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_白本資料_騎腳踏車_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern4038708084993184877.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_騎腳踏車_timeseries1164473275573476491table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_騎腳踏車_timeseries1330515354361145308pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_騎腳踏車_timeseries793932912145086150table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_白本資料_體操或氣功_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern5499428413943692238.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_體操或氣功_timeseries942945753370609483table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_體操或氣功_timeseries4683391875265496806pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_體操或氣功_timeseries4059386246247648608table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_白本資料_高爾夫球_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern3438724692246392370.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_高爾夫球_timeseries2665179263404515371table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_高爾夫球_timeseries7049978320177922521pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_高爾夫球_timeseries1407351526584272364table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_白本資料_高血壓家族史_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern5031601071032903312.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_高血壓家族史_timeseries4818461298772427856table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_高血壓家族史_timeseries669518426604821204pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_高血壓家族史_timeseries8137298313898848651table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_白本資料_高血壓用藥_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern6691924143703725103.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_高血壓用藥_timeseries6632634853809684319table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_高血壓用藥_timeseries8534388789104871569pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_高血壓用藥_timeseries882411208114296982table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_白本資料_高血壓病史_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern7447475283404007671.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_高血壓病史_timeseries5216424049477607325table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_高血壓病史_timeseries2160210782910451680pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_高血壓病史_timeseries5127359565678930001table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_白本資料_高血壓發病年數_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern8720763574574603677.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_高血壓發病年數_timeseries470980214682689105table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_高血壓發病年數_timeseries4887203404709895085pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_白本資料_高血壓發病年數_timeseries8451304952740192305table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_糖尿病篩檢_口服葡萄糖耐性試驗_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern7630859186992043527.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_糖尿病篩檢_口服葡萄糖耐性試驗_timeseries6014055966381767520table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_糖尿病篩檢_口服葡萄糖耐性試驗_timeseries3158995323367395207pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_糖尿病篩檢_口服葡萄糖耐性試驗_timeseries904478444666625141table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_糖尿病篩檢_空腹血糖_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern68789912686931071.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_糖尿病篩檢_空腹血糖_timeseries1911874451306553245table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_糖尿病篩檢_空腹血糖_timeseries8751406176077543238pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_糖尿病篩檢_空腹血糖_timeseries2793018805623600795table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_糖尿病篩檢_糖化血色素_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern2497367476364045253.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_糖尿病篩檢_糖化血色素_timeseries3804685653240017571table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_糖尿病篩檢_糖化血色素_timeseries4610766267750190298pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_糖尿病篩檢_糖化血色素_timeseries6349150859602464641table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_高血壓篩檢_收縮壓(右手)_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern6527289005280616741.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_高血壓篩檢_收縮壓(右手)_timeseries3269807825789004577table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_高血壓篩檢_收縮壓(右手)_timeseries7063062962105544756pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_高血壓篩檢_收縮壓(右手)_timeseries5856746243501473278table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_高血壓篩檢_收縮壓(右腳)_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern3626781002319205000.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_高血壓篩檢_收縮壓(右腳)_timeseries1260550840699066580table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_高血壓篩檢_收縮壓(右腳)_timeseries5535579858187248240pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_高血壓篩檢_收縮壓(右腳)_timeseries9080979089908889056table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_高血壓篩檢_收縮壓(左手)_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern1903040613732902041.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_高血壓篩檢_收縮壓(左手)_timeseries6188284423440395685table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_高血壓篩檢_收縮壓(左手)_timeseries8056022250689077139pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_高血壓篩檢_收縮壓(左手)_timeseries7006845291513030262table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_高血壓篩檢_收縮壓(左腳)_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern3344577097833369018.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_高血壓篩檢_收縮壓(左腳)_timeseries1346370543135238070table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_高血壓篩檢_收縮壓(左腳)_timeseries7667164214921709889pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_高血壓篩檢_收縮壓(左腳)_timeseries6046194618499570962table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_高血壓篩檢_收縮壓(站立前)_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern8591413240632175326.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_高血壓篩檢_收縮壓(站立前)_timeseries4851051104863291442table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_高血壓篩檢_收縮壓(站立前)_timeseries2425966709041919695pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_高血壓篩檢_收縮壓(站立前)_timeseries1244503711901363782table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_高血壓篩檢_收縮壓(站立後1min)_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern4878266482024150217.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_高血壓篩檢_收縮壓(站立後1min)_timeseries23061154877734003table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_高血壓篩檢_收縮壓(站立後1min)_timeseries4805324239234968115pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_高血壓篩檢_收縮壓(站立後1min)_timeseries2154277878272234543table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_高血壓篩檢_收縮壓(站立後2min)_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern9070107248785191556.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_高血壓篩檢_收縮壓(站立後2min)_timeseries6138750334745177754table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_高血壓篩檢_收縮壓(站立後2min)_timeseries2036226877904947248pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_高血壓篩檢_收縮壓(站立後2min)_timeseries1719269450214440915table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_高血壓篩檢_脈搏(右手)_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern1555880148574009160.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_高血壓篩檢_脈搏(右手)_timeseries181817833057899308table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_高血壓篩檢_脈搏(右手)_timeseries6718700422048359920pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_高血壓篩檢_脈搏(右手)_timeseries1991283349687323627table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_高血壓篩檢_脈搏(右腳)_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern803872822361565892.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_高血壓篩檢_脈搏(右腳)_timeseries2931262959238395707table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_高血壓篩檢_脈搏(右腳)_timeseries3824042945398348948pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_高血壓篩檢_脈搏(右腳)_timeseries4799293845578452582table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_高血壓篩檢_脈搏(左手)_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern1967431573850397837.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_高血壓篩檢_脈搏(左手)_timeseries5516937079539064726table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_高血壓篩檢_脈搏(左手)_timeseries5995924905184266265pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_高血壓篩檢_脈搏(左手)_timeseries6634046759118727260table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_高血壓篩檢_脈搏(左腳)_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern8630062179178930700.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_高血壓篩檢_脈搏(左腳)_timeseries434756779231245846table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_高血壓篩檢_脈搏(左腳)_timeseries7504756003777785037pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_高血壓篩檢_脈搏(左腳)_timeseries3927458699688603691table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_高血壓篩檢_脈搏(站立前)_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern5325498971640676014.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_高血壓篩檢_脈搏(站立前)_timeseries8756799167656582710table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_高血壓篩檢_脈搏(站立前)_timeseries3398464326501703804pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_高血壓篩檢_脈搏(站立前)_timeseries8566601446569339296table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_高血壓篩檢_脈搏(站立後1min)_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern4558904190038047380.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_高血壓篩檢_脈搏(站立後1min)_timeseries4225106258474777274table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_高血壓篩檢_脈搏(站立後1min)_timeseries2613327918219126966pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_高血壓篩檢_脈搏(站立後1min)_timeseries6763031028793067307table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_高血壓篩檢_脈搏(站立後2min)_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern5332862529767247696.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_高血壓篩檢_脈搏(站立後2min)_timeseries2381897957634532144table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_高血壓篩檢_脈搏(站立後2min)_timeseries4332442267223055322pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_高血壓篩檢_脈搏(站立後2min)_timeseries7483237553677138551table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_高血壓篩檢_舒張壓(右手)_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern728639755232990550.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_高血壓篩檢_舒張壓(右手)_timeseries5287820041167553972table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_高血壓篩檢_舒張壓(右手)_timeseries4933487778625789399pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_高血壓篩檢_舒張壓(右手)_timeseries3716726385218619488table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_高血壓篩檢_舒張壓(右腳)_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern8673139605464887653.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_高血壓篩檢_舒張壓(右腳)_timeseries5033651401572339848table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_高血壓篩檢_舒張壓(右腳)_timeseries1923972762566817556pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_高血壓篩檢_舒張壓(右腳)_timeseries4573506528068203486table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_高血壓篩檢_舒張壓(左手)_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern6731627659592042075.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_高血壓篩檢_舒張壓(左手)_timeseries5347361751002038601table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_高血壓篩檢_舒張壓(左手)_timeseries5946629167483433508pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_高血壓篩檢_舒張壓(左手)_timeseries9139517822814173588table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_高血壓篩檢_舒張壓(左腳)_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern4852666966592295102.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_高血壓篩檢_舒張壓(左腳)_timeseries1530670169886295610table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_高血壓篩檢_舒張壓(左腳)_timeseries4554121484748348189pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_高血壓篩檢_舒張壓(左腳)_timeseries7222280660701616031table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_高血壓篩檢_舒張壓(站立前)_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern6136504315827422144.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_高血壓篩檢_舒張壓(站立前)_timeseries7718883752728747299table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_高血壓篩檢_舒張壓(站立前)_timeseries9151948588178183168pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_高血壓篩檢_舒張壓(站立前)_timeseries9107592742349212304table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_高血壓篩檢_舒張壓(站立後1min)_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern4317836111730655074.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_高血壓篩檢_舒張壓(站立後1min)_timeseries7365545349151007327table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_高血壓篩檢_舒張壓(站立後1min)_timeseries1129584673472226154pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_高血壓篩檢_舒張壓(站立後1min)_timeseries8593137209474009562table.arff
+
+[file path] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\classinstall\sqlfile_output_高血壓篩檢_舒張壓(站立後2min)_timeseries.txt
+[class pattern file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\combine_pattern30245729148338493.tmp
+[table format file] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_高血壓篩檢_舒張壓(站立後2min)_timeseries3483978352665591363table.tmp
+[pattern_sn_filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_高血壓篩檢_舒張壓(站立後2min)_timeseries5494274790366852135pattern_sn.tmp
+[arff filename] D:\Lobby_temp\III\Integrated_HealthAnalysisSys\.\AllData(51-65)\seq_patterns_arffs\sqlfile_output_高血壓篩檢_舒張壓(站立後2min)_timeseries5064909611679876407table.arff
+

@@ -1,0 +1,626 @@
+package progressive_pattern;
+import java.io.*;
+import java.util.Vector;
+import java.util.HashMap;
+import java.util.Iterator;
+import data_format.*;
+
+//Do classification on MTS with physical combination of Progressive Pattern 
+public class composite_mpp
+{
+	public String FILENAME="";
+	public String TRANSFORMED_FILENAME="";
+
+	public Vector<String> pp_files=new Vector<String>();
+	public String integrated_pattern_sn_filename="";
+	public String MPP_FILENAME="";
+	public int TRANSACTION_COUNT=0;
+
+	private Vector<String> ts_files=new Vector<String>();
+	private Vector<String> pattern_sn_files=new Vector<String>();
+	private Vector<String> transformed_files=new Vector<String>();
+
+	public double MIN_SUP=0.1;
+	public double MIN_CONF1=0.3;
+	public double MIN_CONF2=0.5;
+	
+	public composite_mpp()
+	{
+	}
+	
+	public void train(String f,double min_sup,double min_conf1,double min_conf2)
+	{
+		FILENAME=f;
+		MIN_SUP=min_sup;
+		MIN_CONF1=min_conf1;
+		MIN_CONF2=min_conf2;
+				
+		separate_ts_variables();
+		System.out.println("ts_files");
+		System.out.println(ts_files);
+		mining_pp();	
+		mining_mpp();
+	}
+
+	private void mining_mpp()
+	{
+		try
+		{
+			MPP_FILENAME=(File.createTempFile("mpp_",".tmp",new File("tmp"))).getAbsolutePath();
+			//System.out.println("MPP FILE: "+MPP_FILENAME);
+			BufferedWriter bw=new BufferedWriter(new FileWriter(MPP_FILENAME));
+			bw.write("#Large 1\n");
+			System.out.println("Large 1 generated!");
+			VP_node root=generate_large_1(integrated_pattern_sn_filename);
+			output_patterns(bw,root);
+			int n=2;
+			while(generate_candidate_n(root))
+			{
+				bw.write("#Candidate "+n+"\n");
+				System.out.println("Candidate "+n+" generated!");
+				output_patterns(bw,root); //candidate
+				System.out.println("Counting Large with "+TRANSFORMED_FILENAME);
+			generate_large_2(root,TRANSFORMED_FILENAME);
+			bw.write("#Large 2 TEST\n");
+			output_patterns(bw,root);
+			break;
+//				if(!generate_large_n(root,TRANSFORMED_FILENAME)) //count FILENAME;
+//					break;
+//				bw.write("#Large "+n+"\n");
+//				System.out.println("Large "+n+" generated!");
+//				output_patterns(bw,root); //large
+//				n++;
+			}
+			bw.close();
+		}
+		catch(Exception e)
+		{
+			System.out.println("composite_mpp mining_mpp exception:"+e);
+		}
+	}
+
+	private VP_node generate_large_1(String a)
+	{
+		VP_node result=new VP_node();
+		try
+		{
+			BufferedReader br=new BufferedReader(new FileReader(a));
+			String buffer="";
+			while((buffer=br.readLine())!=null)
+			{
+				VP_node temp_node=new VP_node(buffer,result);
+				result.path_build(temp_node);
+			}
+			br.close();
+		}
+		catch(Exception e)
+		{
+			System.out.println("composite_mpp generate_large_1 exception:"+e);
+		}
+		return result;
+	}
+
+	private boolean generate_candidate_n(VP_node sub_root)
+	{
+		boolean result=true;
+		try
+		{
+			result=result && sub_root.extend_all_leaves();
+			System.out.println("Extend all leaves:"+result);
+			result=result && sub_root.clear_all_count();
+			System.out.println("Clear all count:"+result);
+		}
+		catch(Exception e)
+		{
+			System.out.println("commposite_mpp generate_candidate_n exception:"+e);
+			result=false;
+		}
+		return result;
+	}
+
+	private boolean generate_large_n(VP_node root, String f)
+	{
+		boolean result=true;
+		try
+		{	
+			BufferedReader br=new BufferedReader(new FileReader(f));
+			String buffer="";
+			int transaction_count=0;
+			while((buffer=br.readLine())!=null)
+			{
+				root.pattern_trace_for_counting(new mp_transaction(buffer),0,transaction_count);
+				transaction_count++;
+			}
+			TRANSACTION_COUNT=transaction_count;
+			br.close();
+			//if the whole tree is pruned, 
+			result= !prune(root);
+		}
+		catch(Exception e)
+		{
+			System.out.println("composite generate_large_n exception:"+e);
+		}
+		return result;
+	}
+
+	private boolean generate_large_2(VP_node root, String f)
+	{
+		boolean result=true;
+		try
+		{	
+			BufferedReader br=new BufferedReader(new FileReader(f));
+			String buffer="";
+			int transaction_count=0;
+			while((buffer=br.readLine())!=null)
+			{
+				root.pattern_trace_for_counting(new mp_transaction(buffer),0,transaction_count);
+				transaction_count++;
+			}
+			TRANSACTION_COUNT=transaction_count;
+			br.close();
+			//if the whole tree is pruned, 
+			//result= !prune(root);
+		}
+		catch(Exception e)
+		{
+			System.out.println("composite generate_large_2 exception:"+e);
+		}
+		return result;
+	}
+
+	private boolean check_progressive(VP_node temp_node)
+	{
+		try
+		{
+			HashMap N=temp_node.SCORE_TABLE;
+			double N_SUPPORT=temp_node.SUPPORT;
+			HashMap O=temp_node.PARENT.SCORE_TABLE;
+			double O_SUPPORT=temp_node.PARENT.SUPPORT;
+			Iterator ir=O.keySet().iterator();
+			Vector<String> remove_list=new Vector<String>();
+			//Check if all class score of older node, at least one of them must become larger.
+			//Remove the class with the score is not progressive
+			boolean result=false;
+			while(ir.hasNext())
+			{
+				String temp_class=(String)ir.next();
+				if(N.containsKey(temp_class))
+				{
+					double o_class_score=(((Double)O.get(temp_class)).doubleValue()/O_SUPPORT);
+					double n_class_score=(((Double)N.get(temp_class)).doubleValue()/N_SUPPORT);
+					if(n_class_score>o_class_score)
+						result=true;
+					else
+						remove_list.add(temp_class);
+				}
+			}
+
+			for(int i=0;i<remove_list.size();i++)
+				temp_node.SCORE_TABLE.remove(remove_list);
+		}
+		catch(Exception e)
+		{
+			System.out.println("composite_mpp check_progressive exception:"+e);
+			return false;
+		}
+		return true;
+	}
+
+	//if the node need to be pruned, this function return true; otherwise, return false.
+	private boolean prune(VP_node temp_node)
+	{
+		try
+		{
+			if(temp_node.is_leaf())
+			{
+				if(temp_node.SUPPORT>=(MIN_SUP*TRANSACTION_COUNT) && temp_node.get_highest_confidence()>=MIN_CONF1 && check_progressive(temp_node))
+					return false;
+				else
+					return true;
+			}
+			else
+			{
+				Iterator ir=temp_node.CHILDREN.keySet().iterator();
+				boolean result=true;
+				Vector<String> remove_list=new Vector<String>();
+				while(ir.hasNext())
+				{
+					String temp_name=(String)ir.next();
+					boolean r=prune((VP_node)temp_node.CHILDREN.get(temp_name));
+					result=result&&r;
+					if(r)
+						remove_list.add(temp_name);
+				}
+
+				for(int i=0;i<remove_list.size();i++)
+					temp_node.CHILDREN.remove(remove_list.get(i));
+				return result;
+			}
+		}
+		catch(Exception e)
+		{
+			System.out.println("composite prune exception:"+e);
+			return false;
+		}
+	}
+	
+	private void output_patterns(BufferedWriter bw,VP_node root_node)
+	{
+		try
+		{
+			Iterator ir=root_node.CHILDREN.keySet().iterator();
+			while(ir.hasNext())
+			{
+				output_patterns(bw,root_node.CHILDREN.get((String)ir.next()),"");
+			}
+		}
+		catch(Exception e)
+		{
+			System.out.println("composite_mpp output_patterns exception:"+e);
+		}
+	}
+
+	private void output_patterns(BufferedWriter bw,VP_node temp_node,String p)
+	{
+		try
+		{
+			p+=temp_node.ID+",";
+			if(temp_node.is_leaf())
+				bw.write(p+":"+temp_node.SUPPORT+":"+temp_node.SCORE_TABLE.toString()+"\n");
+			else
+			{
+				Iterator ir=temp_node.CHILDREN.keySet().iterator();
+				while(ir.hasNext())
+				{
+					output_patterns(bw,(VP_node)temp_node.CHILDREN.get(ir.next()),p);
+				}
+			}
+		}
+		catch(Exception e)
+		{
+			System.out.println("composite_mpp output_patterns exception:"+e);
+		}
+	}
+
+	public String get_feature_transformed_file()
+	{
+		String result="";
+		try
+		{
+			result=(File.createTempFile("featured",".tmp",new File("tmp"))).getAbsolutePath();
+			Vector<BufferedReader> f_br=new Vector<BufferedReader>();
+			pattern_sn_files.clear();
+			transformed_files.clear();
+			for(int i=0;i<ts_files.size();i++)
+			{
+				transformed_with_feature_file(ts_files.get(i),pp_files.get(i));
+				BufferedReader br=new BufferedReader(new FileReader(transformed_files.get(i)));
+				f_br.add(br);
+			}
+
+			//combine all into one features So...
+			//For TS1=>FeaturedTS1 all its pattern must add "t1v" so feature "1" become t1v1
+			//which means that this feature is the first feature in ts variable 1.
+			
+			BufferedWriter bw=new BufferedWriter(new FileWriter(result));
+			while(true)
+			{
+				boolean q=false;
+				String buffer="";
+				String class_label="";
+				String transaction_buffer="";
+				for(int i=0;i<f_br.size();i++)
+				{
+					BufferedReader temp_br=(BufferedReader)f_br.get(i);
+					if((buffer=temp_br.readLine())!=null)
+					{
+						transaction temp_tran=transaction_parser.basic_parser(buffer,"CS");
+						if(i==0)
+							class_label=temp_tran.CLASS_LABEL;
+						//transaction_buffer+=buffer.substring(buffer.indexOf(":")+1);
+						for(int ii=0;ii<temp_tran.ITEM_SET.size();ii++)
+							transaction_buffer+="t"+Integer.toString(i)+"v"+temp_tran.ITEM_SET.get(ii)+",";
+					}
+					else
+						q=true;
+				}
+				if(q)
+					break;
+				bw.write(class_label+":"+transaction_buffer+"\n");
+			}
+			bw.close();
+
+			for(int i=0;i<f_br.size();i++)
+			{
+				((BufferedReader)f_br.get(i)).close();
+			}
+
+			System.out.println("Pattern_sn_files:");
+			System.out.println(pattern_sn_files);
+			System.out.println("transformed_files:");
+			System.out.println(transformed_files);
+		}
+		catch(Exception e)
+		{
+			System.out.println("composite_mpp get_feature_transformed_file exception:"+e);
+		}
+		return result;
+	}
+
+	public String get_feature_transformed_file(String input_file)
+	{
+		String result="";
+		try
+		{
+			FILENAME=input_file;
+			separate_ts_variables(); //change ts_files, but not pp_files
+			result=(File.createTempFile("featured",".tmp",new File("tmp"))).getAbsolutePath();
+			Vector<BufferedReader> f_br=new Vector<BufferedReader>();
+			pattern_sn_files.clear();
+			transformed_files.clear();
+			for(int i=0;i<ts_files.size();i++)
+			{
+				transformed_with_feature_file(ts_files.get(i),pp_files.get(i));
+				BufferedReader br=new BufferedReader(new FileReader(transformed_files.get(i)));
+				f_br.add(br);
+			}
+
+			//combine all into one features So...
+			//For TS1=>FeaturedTS1 all its pattern must add "t1v" so feature "1" become t1v1
+			//which means that this feature is the first feature in ts variable 1.
+			
+			BufferedWriter bw=new BufferedWriter(new FileWriter(result));
+			while(true)
+			{
+				boolean q=false;
+				String buffer="";
+				String class_label="";
+				String transaction_buffer="";
+				for(int i=0;i<f_br.size();i++)
+				{
+					BufferedReader temp_br=(BufferedReader)f_br.get(i);
+					if((buffer=temp_br.readLine())!=null)
+					{
+						transaction temp_tran=transaction_parser.basic_parser(buffer,"CS");
+						if(i==0)
+							class_label=temp_tran.CLASS_LABEL;
+						//transaction_buffer+=buffer.substring(buffer.indexOf(":")+1);
+						for(int ii=0;ii<temp_tran.ITEM_SET.size();ii++)
+							transaction_buffer+="t"+Integer.toString(i)+"v"+temp_tran.ITEM_SET.get(ii)+",";
+					}
+					else
+						q=true;
+				}
+				if(q)
+					break;
+				bw.write(class_label+":"+transaction_buffer+"\n");
+			}
+			bw.close();
+
+			for(int i=0;i<f_br.size();i++)
+			{
+				((BufferedReader)f_br.get(i)).close();
+			}
+
+			System.out.println("Pattern_sn_files:");
+			System.out.println(pattern_sn_files);
+			System.out.println("transformed_files:");
+			System.out.println(transformed_files);
+		}
+		catch(Exception e)
+		{
+			System.out.println("composite_mpp get_feature_transformed_file exception:"+e);
+		}
+		return result;
+	}
+
+	private void transformed_with_feature_file(String input_file,String pattern_file)
+	{
+		try
+		{
+			String output_filename=(File.createTempFile("OutPut",".tmp",new File("tmp"))).getAbsolutePath();
+			String pattern_sn_filename=(File.createTempFile("Pattern_sn",".tmp",new File("tmp"))).getAbsolutePath();
+			pattern_sn_files.add(pattern_sn_filename);
+			transformed_files.add(output_filename);
+			pattern_replace a=new pattern_replace(input_file,pattern_file,output_filename,pattern_sn_filename);
+		}
+		catch(Exception e)
+		{
+			System.out.println("composite_mpp transformed_with_feature_file exception:"+e);
+		}
+	}
+
+	public Vector<String> get_pattern_files()
+	{
+		return pp_files;
+	}
+
+	public void get_an_integrated_pattern_sn_file()
+	{
+		String result="";
+		try
+		{
+			if(pattern_sn_files.size()==0)
+			{
+				System.out.println("NO PATTERN!!!");
+			}
+			else
+			{
+				result=(File.createTempFile("integrated_pfile",".tmp",new File("tmp"))).getAbsolutePath();
+				BufferedWriter bw=new BufferedWriter(new FileWriter(result));
+				for(int i=0;i<pattern_sn_files.size();i++)
+				{
+					BufferedReader br=new BufferedReader(new FileReader(pattern_sn_files.get(i)));
+					String buffer="";
+					while((buffer=br.readLine())!=null)
+					{
+						bw.write("t"+Integer.toString(i)+"v"+buffer+"\n");
+					}
+					br.close();
+				}
+				bw.close();
+			}
+		}
+		catch(Exception e)
+		{
+			System.out.println("composite_mpp get_an_integrated_pattern_file exception:"+e);
+		}
+		integrated_pattern_sn_filename=result;
+	}
+	
+	private void separate_ts_variables()
+	{
+		try
+		{
+			BufferedReader br=new BufferedReader(new FileReader(FILENAME));
+			ts_files.clear();
+			String buffer="";
+			Vector<String> temp_mts=new Vector<String>();
+			Vector<BufferedWriter> ts_brs=new Vector<BufferedWriter>();
+			String temp_class="";
+			while(true)
+			{
+				buffer=br.readLine();
+				//System.out.println(buffer);
+				if(buffer==null || buffer.equals(""))
+				{
+					if(temp_mts.size()!=0)
+					{
+						if(ts_files.size()==0)
+						{
+							for(int i=0;i<temp_mts.size();i++)
+							{
+								String temp_filename=(File.createTempFile("ts_",".tmp",new File("tmp"))).getAbsolutePath();
+								ts_files.add(temp_filename);
+								ts_brs.add(new BufferedWriter(new FileWriter(temp_filename)));
+							}
+						}	
+						
+						for(int i=0;i<temp_mts.size();i++)
+						{
+							BufferedWriter temp_bw=ts_brs.get(i);
+							String temp_ts=temp_mts.get(i);
+							if(temp_ts.lastIndexOf(";")==temp_ts.length()-1)
+								temp_ts=temp_ts.substring(0,temp_ts.length()-1);
+							temp_bw.write(temp_class+":"+temp_ts+"\n");
+						}
+					}
+					
+					if(buffer==null)
+						break;
+					temp_mts.clear();
+					temp_class="";
+				}
+				else
+				{
+					if(buffer.indexOf(":")>0)
+					{
+						temp_class=buffer.substring(0,buffer.indexOf(":"));
+						if(!(buffer.substring(buffer.indexOf(":")+1).trim()).equals(""))
+						{
+							temp_mts.add(buffer.substring(buffer.indexOf(":")+1).trim());
+						}
+					}
+					else
+						temp_mts.add(buffer);
+				}
+			}
+			for(int i=0;i<ts_brs.size();i++)
+				ts_brs.get(i).close();
+			br.close();			
+		}
+		catch(Exception e)
+		{
+			System.out.println("composite_mpp separate_ts_variable exception:"+e);			
+		}
+	}
+
+	private void mining_pp()
+	{
+		try
+		{
+			pp_files.clear();
+			integrated_pattern_sn_filename="";
+			for(int i=0;i<ts_files.size();i++)
+			{
+				progressive_pattern temp_pp=new progressive_pattern(ts_files.get(i),MIN_SUP,MIN_CONF1,MIN_CONF2);
+				//temp_pp.ITEM_REPEAT=false;
+				temp_pp.start();
+				pp_files.add(temp_pp.result_filename);
+			}
+			//pp_file_to_pattern_sn_file();
+			TRANSFORMED_FILENAME=get_feature_transformed_file();
+			get_an_integrated_pattern_sn_file();
+		}
+		catch(Exception e)
+		{
+			System.out.println("composite_mpp mining_pp exception:"+e);
+		}
+	}
+
+	private void pp_file_to_pattern_sn_file()
+	{
+		try
+		{
+			for(int i=0;i<pp_files.size();i++)
+			{
+				String temp_filename=(File.createTempFile("pattern_sn",".tmp",new File("tmp"))).getAbsolutePath();
+				BufferedWriter bw=new BufferedWriter(new FileWriter(temp_filename));
+				BufferedReader br=new BufferedReader(new FileReader(pp_files.get(i)));
+				String buffer="";
+				int pattern_sn=0;
+				String title="";
+				while((buffer=br.readLine())!=null)
+				{
+					if(buffer.indexOf("#Large")>=0 || buffer.indexOf("#Candidate")>=0)
+						title=buffer;
+					else
+					{
+						if(title.indexOf("#Large")>=0)
+						{
+							bw.write(pattern_sn+":"+buffer+"\n");
+							pattern_sn++;
+						}
+					}
+				}
+				br.close();
+				bw.close();
+				pattern_sn_files.add(temp_filename);
+			}
+		}
+		catch(Exception e)
+		{
+			System.out.println("composite_mpp pp_file_to_pattern_sn_file exception:"+e);
+		}
+	}
+	
+	public void prediction(String f)
+	{
+		try
+		{
+			if(FILENAME.equals("") || pp_files.size()==0)
+			{
+				System.out.println("Need Training Data");
+				return;
+			}
+		}
+		catch(Exception e)
+		{
+			System.out.println("composite_mpp prediction exception:"+e);
+		}
+	}
+	
+	public static void main(String args[])
+	{
+		composite_mpp a=new composite_mpp();
+		a.train(args[0],Double.parseDouble(args[1]),Double.parseDouble(args[2]),Double.parseDouble(args[3]));
+		System.out.println("ALL pattern files");
+		System.out.println(a.get_pattern_files());
+		System.out.println("Training=========================");
+		System.out.println("Transformed_file:"+a.get_feature_transformed_file());
+		System.out.println("Integrated_pattern_sn_file:"+a.integrated_pattern_sn_filename);
+		System.out.println("Multivariate Progressive Pattern File:"+a.MPP_FILENAME);
+		System.out.println("Testing==========================");
+		System.out.println("Transformed_file(for testing):"+a.get_feature_transformed_file(args[4]));
+	}
+}

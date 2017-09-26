@@ -1,0 +1,431 @@
+package Health_Sys;
+
+import java.awt.*;
+import java.awt.event.*;
+import javax.swing.*;
+import java.io.*;
+import java.util.*;
+import javax.swing.event.*;
+
+
+public class classifierUI extends JInternalFrame {
+	JPanel contentPane;
+	JTabbedPane JTab=new JTabbedPane();
+	JPanel filePanel = new JPanel();     //檔案設定頁面
+	SpringLayout springLayout1 = new SpringLayout();
+	JPanel profilePanel = new JPanel();
+	SpringLayout profileLayout = new SpringLayout();
+	JPanel testPanel = new JPanel();
+	SpringLayout testLayout = new SpringLayout();
+	JPanel targetPanel = new JPanel();
+	SpringLayout targetLayout = new SpringLayout();
+
+	JPanel parameterPanel = new JPanel();   //參數輸入頁面
+	SpringLayout springLayout2 = new SpringLayout();
+	JPanel regionPanel = new JPanel();
+	SpringLayout regionLayout = new SpringLayout();
+	JPanel thresholdPanel = new JPanel();
+	SpringLayout thresholdLayout = new SpringLayout();
+	JPanel datasetPanel = new JPanel();
+	SpringLayout datasetLayout = new SpringLayout();
+	
+	JLabel titleLabel1 = new JLabel("基本資料與身體評估檔");
+	JLabel titleLabel2 = new JLabel("測試資料路徑");
+	JLabel titleLabel3 = new JLabel("目標疾病");
+	JLabel titleLabel4 = new JLabel("下限值");
+	JLabel titleLabel5 = new JLabel("上限值");
+	JLabel titleLabel6 = new JLabel("門檻值");
+	JLabel titleLabel7 = new JLabel("訓練資料集的比例");
+	JLabel titleLabel8 = new JLabel("疾病名稱");
+	JTextField browseTextField1 = new JTextField();
+	JTextField browseTextField2 = new JTextField();
+	JTextField browseTextField3 = new JTextField();
+	JTextField parameter1 = new JTextField();
+	JTextField parameter2 = new JTextField();
+	JTextField parameter3 = new JTextField();
+	JTextField parameter4 = new JTextField();
+	JTextField parameter5 = new JTextField();
+	JButton browseBtn1 = new JButton("選擇檔案");
+	JButton browseBtn2 = new JButton("選擇路徑");
+	JButton browseBtn3 = new JButton("選擇疾病");
+	JFileChooser jFileChooser1 = new JFileChooser("./");	
+	JFileChooser jFileChooser2 = new JFileChooser("./");	
+	JFileChooser jFileChooser3 = new JFileChooser("./");	
+	String fileNameStr1 = "";
+	String fileNameStr2 = "";
+	String fileNameStr3 = "";
+	JButton returnBtn1 = new JButton("回主畫面");
+	JButton returnBtn2 = new JButton("回主畫面");
+	JButton submitBtn = new JButton("執行");
+	JSlider trainSlider = new JSlider(0, 100, 70);
+	JLabel trainLabel1 = new JLabel("0");
+	JLabel trainLabel2 = new JLabel("100");
+	JLabel trainLabel3 = new JLabel("70");
+	JLabel trainLabel4 = new JLabel("%");
+    
+    
+    JFrame menuStart;
+
+
+	public classifierUI(JFrame menuStart) {
+		super("建構預測模組",true,true,true,true);
+		enableEvents(AWTEvent.WINDOW_EVENT_MASK);
+		try {
+			this.menuStart = menuStart;
+			jbInit();
+		} 
+		catch(Exception e)  { 
+			e.printStackTrace(); 
+		}
+	}
+	
+	private void jbInit() throws Exception  { 
+		this.setSize(500,500);		
+//		Dimension screenSize = Toolkit.getDefaultToolkit().getScreenSize();   //frame location
+//		Dimension frameSize = this.getSize();
+//		if (frameSize.height > screenSize.height) {
+//			frameSize.height = screenSize.height;
+//		}
+//		if (frameSize.width > screenSize.width) {
+//			frameSize.width = screenSize.width;
+//		}
+      
+//		this.setLocation((screenSize.width - frameSize.width) / 2, (screenSize.height - frameSize.height) / 2);
+		this.setVisible(true);
+		
+		
+		final classifierUI adaptee = this;
+				 	
+		browseBtn1.addActionListener(new java.awt.event.ActionListener() {		//選檔
+			public void actionPerformed(ActionEvent e) {
+		   	if(jFileChooser1.APPROVE_OPTION == jFileChooser1.showOpenDialog(adaptee)){
+		     		fileNameStr1 = jFileChooser1.getSelectedFile().getPath();
+        			browseTextField1.setText(fileNameStr1);
+			}
+			}
+		}); 	
+		
+		browseBtn2.addActionListener(new java.awt.event.ActionListener() {
+			public void actionPerformed(ActionEvent e) {
+			jFileChooser2.setFileSelectionMode(JFileChooser.DIRECTORIES_ONLY);	
+			if(jFileChooser2.APPROVE_OPTION == jFileChooser2.showOpenDialog(adaptee)){
+		     	fileNameStr2 = jFileChooser2.getSelectedFile().getPath();
+        		browseTextField2.setText(fileNameStr2);
+			}
+			}   
+		}); 	
+		
+		browseBtn3.addActionListener(new java.awt.event.ActionListener() {
+			public void actionPerformed(ActionEvent e) {
+			jFileChooser3.setFileSelectionMode(JFileChooser.FILES_ONLY);	
+			if(jFileChooser3.APPROVE_OPTION == jFileChooser3.showOpenDialog(adaptee)){
+		     	fileNameStr3 = jFileChooser3.getSelectedFile().getName();
+        		browseTextField3.setText(fileNameStr3);
+			}
+			}
+		}); 
+		
+		returnBtn1.addActionListener(new java.awt.event.ActionListener() {
+			public void actionPerformed(ActionEvent e) {
+			   	dispose();
+			    menuStart.setVisible(true);
+			}
+		}); 
+		
+		returnBtn2.addActionListener(new java.awt.event.ActionListener() {
+			public void actionPerformed(ActionEvent e) {
+			   	dispose();
+			    menuStart.setVisible(true);
+			}
+		}); 
+		
+		submitBtn.addActionListener(new java.awt.event.ActionListener(){
+			public void actionPerformed(ActionEvent e) {
+				String path = "PredictionModels";
+				String dstDir = parameter5.getText();
+				
+				File createFile = new File(path,dstDir);
+				createFile.mkdir();
+			   	
+			   	writeFileWhenSubmit();
+			   	
+				copyFile();
+			}
+		}); 						
+		
+		contentPane = (JPanel) this.getContentPane();
+		contentPane.add(JTab, BorderLayout.CENTER);
+		JTab.addTab("檔案設定", filePanel);
+		JTab.addTab("參數輸入", parameterPanel);	
+		fileLayout();
+		parameterLayout();
+	}
+  	   
+    private void writeFileWhenSubmit() {     //寫檔
+    	try { 
+    		//File file = new File("C:/Integrated_HealthAnalysisSys/input_parameters.ini");
+    		//FileWriter fw = new FileWriter(file);
+    		//BufferedWriter bw = new BufferedWriter(fw);
+    		Double threshold = new Double(trainSlider.getValue());
+    		threshold = threshold / 100;
+    		
+    		/*bw.write(browseTextField1.getText() + "\r\n");
+    		bw.write(browseTextField2.getText() + "\r\n");
+    		bw.write(browseTextField3.getText() + "\r\n");
+    		bw.write(parameter1.getText() + "\r\n");
+    		bw.write(parameter2.getText() + "\r\n");
+    		bw.write(parameter3.getText() + "\r\n");
+    		bw.write(parameter5.getText() + "_seq.arff\r\n");
+    		bw.write(threshold + "\r\n");
+    		bw.write(parameter5.getText());
+    		
+    		bw.close();
+    		fw.close();
+    		file = null;*/
+    		
+    		HAS has = new HAS(browseTextField1.getText(), 
+    						  browseTextField2.getText(),
+    						  browseTextField3.getText(),
+    						  parameter1.getText(),
+    						  parameter2.getText(),
+    						  parameter3.getText(),
+    						  parameter5.getText() + "_seq.arff",
+    						  threshold+"",
+    						  parameter5.getText());
+    				  
+			new moduleResult(has.unbalance_accuracy,
+					has.unbalance_precision,
+					has.unbalance_recall,
+					has.balance_accuracy,
+					has.balance_precision,
+					has.balance_recall);
+					
+		BufferedWriter bw=new BufferedWriter(new FileWriter(parameter5.getText()+"資料/output_arffs/" + parameter5.getText() + ".info"));
+		bw.write("["+parameter5.getText()+"]疾病預測模組 (建立時間:"+Calendar.getInstance().toString()+")\n");
+		bw.write("基本測試報告==============================\n");
+		bw.write("原始資料 準確度(Accuracy):"+has.unbalance_accuracy+"\n");
+		bw.write("原始資料 針對疾病發作的精確度(Precision):"+has.unbalance_precision+"\n");
+		bw.write("原始資料 針對疾病發作的召回率(Recall):"+has.unbalance_recall+"\n");
+		bw.write("[較客觀]平均取樣後資料 準確度(Accuracy):"+has.balance_accuracy+"\n");
+		bw.write("[較客觀]平均取樣後資料 針對疾病發作的精確度(Precision):"+has.balance_precision+"\n");
+		bw.write("[較客觀]平均取樣後資料 針對疾病發作的召回率(Recall):"+has.balance_recall+"\n");
+		bw.close();
+    	}
+    	catch(Exception e) {
+    		e.printStackTrace();
+    	}
+    }
+    
+    private void copyFile(){
+    		copyFileTo(parameter5.getText()+"資料/output_arffs/" + parameter5.getText() + "_combined_arff.arff",
+    				"PredictionModels/" + parameter5.getText()+"/"+ parameter5.getText() + "_combined_arff.arff");
+    		copyFileTo(parameter5.getText()+"資料/output_arffs/j48.txt",
+    				"PredictionModels/" + parameter5.getText()+"/"+ parameter5.getText() + ".tree");
+    		copyFileTo(parameter5.getText()+"資料/output_arffs/j48.model",
+    				"PredictionModels/" + parameter5.getText()+"/"+ parameter5.getText() + ".model");
+    		copyFileTo(parameter5.getText()+"資料/output_arffs/"+ parameter5.getText()+"_MappingInfo.txt",
+    				"PredictionModels/" + parameter5.getText()+"/"+ parameter5.getText() + "_MappingInfo.txt");
+    		copyFileTo(parameter5.getText()+"資料/output_arffs/"+ parameter5.getText()+".info",
+    				"PredictionModels/" + parameter5.getText()+"/"+ parameter5.getText() + ".info");
+  }	
+
+private void copyFileTo(String in, String out)
+{	
+	try
+	{		
+		FileInputStream fis  = new FileInputStream(new File(in));
+		FileOutputStream fos = new FileOutputStream(new File(out));
+        		byte[] buf = new byte[1024];
+		int i = 0;
+		while ((i = fis.read(buf)) != -1)
+		{
+			fos.write(buf, 0, i);
+		}
+		if (fis != null) fis.close();
+		if (fos != null) fos.close();
+	} 
+	catch (Exception e)
+	{
+		System.out.println("classifierUI copyFileTo exception:"+e);
+	}
+}		
+  		
+  	private void fileLayout() throws Exception  {
+  		
+  		//profilePanel testPanel targetPanel returnBtn1排版
+  		filePanel.setLayout(springLayout1); 
+  		browseTextField1.setPreferredSize(new Dimension(330, 25));
+		browseTextField2.setPreferredSize(new Dimension(330, 25));
+		browseTextField3.setPreferredSize(new Dimension(330, 25));
+		
+		filePanel.add(profilePanel);
+		filePanel.add(testPanel);
+		filePanel.add(targetPanel);
+		filePanel.add(returnBtn1);
+		springLayout1.putConstraint(SpringLayout.WEST, profilePanel, 10, SpringLayout.WEST, filePanel);
+		springLayout1.putConstraint(SpringLayout.NORTH, profilePanel,10, SpringLayout.NORTH, filePanel);
+		springLayout1.putConstraint(SpringLayout.WEST, testPanel, 10, SpringLayout.WEST, filePanel);
+		springLayout1.putConstraint(SpringLayout.NORTH, testPanel,20, SpringLayout.SOUTH, profilePanel);
+		springLayout1.putConstraint(SpringLayout.WEST, targetPanel, 10, SpringLayout.WEST, filePanel);
+		springLayout1.putConstraint(SpringLayout.NORTH, targetPanel,20, SpringLayout.SOUTH, testPanel);
+		springLayout1.putConstraint(SpringLayout.EAST, returnBtn1, -20, SpringLayout.EAST, filePanel);
+		springLayout1.putConstraint(SpringLayout.SOUTH, returnBtn1, -15, SpringLayout.SOUTH, filePanel);
+		
+		//profilePanel
+		profilePanel.setLayout(profileLayout); 
+		profilePanel.add(titleLabel1);
+		profilePanel.add(browseTextField1);
+		profilePanel.add(browseBtn1);
+		profilePanel.setPreferredSize(new Dimension(470,90));
+		profilePanel.setBorder(BorderFactory.createTitledBorder(BorderFactory.createLineBorder(Color.BLUE,1),"基本資料"));
+		profileLayout.putConstraint(SpringLayout.WEST, titleLabel1, 20, SpringLayout.WEST, profilePanel);
+		profileLayout.putConstraint(SpringLayout.NORTH, titleLabel1,5, SpringLayout.NORTH, profilePanel);	
+		profileLayout.putConstraint(SpringLayout.WEST, browseTextField1, 20, SpringLayout.WEST, profilePanel);
+		profileLayout.putConstraint(SpringLayout.NORTH, browseTextField1,5, SpringLayout.SOUTH, titleLabel1); 
+		profileLayout.putConstraint(SpringLayout.WEST, browseBtn1, 15, SpringLayout.EAST, browseTextField1);
+		profileLayout.putConstraint(SpringLayout.NORTH, browseBtn1, 5, SpringLayout.SOUTH, titleLabel1);
+	
+		//testPanel
+		testPanel.setLayout(testLayout);
+		testPanel.add(titleLabel2);
+		testPanel.add(browseTextField2);
+		testPanel.add(browseBtn2);
+		testPanel.setPreferredSize(new Dimension(470,90));
+		testPanel.setBorder(BorderFactory.createTitledBorder(BorderFactory.createLineBorder(Color.ORANGE,1),"測試資料夾"));
+		testLayout.putConstraint(SpringLayout.WEST, titleLabel2, 20, SpringLayout.WEST, testPanel);
+		testLayout.putConstraint(SpringLayout.NORTH, titleLabel2, 5, SpringLayout.NORTH, testPanel);
+		testLayout.putConstraint(SpringLayout.WEST, browseTextField2, 20, SpringLayout.WEST, testPanel);
+		testLayout.putConstraint(SpringLayout.NORTH, browseTextField2, 5, SpringLayout.SOUTH, titleLabel2); 
+		testLayout.putConstraint(SpringLayout.WEST, browseBtn2, 15, SpringLayout.EAST, browseTextField2);
+		testLayout.putConstraint(SpringLayout.NORTH, browseBtn2, 5, SpringLayout.SOUTH, titleLabel2);
+		
+		//targetPanel
+		targetPanel.setLayout(targetLayout);
+		targetPanel.add(titleLabel3);	
+		targetPanel.add(browseTextField3);
+		targetPanel.add(browseBtn3);
+		targetPanel.setPreferredSize(new Dimension(470,90));
+		targetPanel.setBorder(BorderFactory.createTitledBorder(BorderFactory.createLineBorder(Color.GREEN,1),"目標疾病"));
+		targetLayout.putConstraint(SpringLayout.WEST, titleLabel3, 20, SpringLayout.WEST, targetPanel);
+		targetLayout.putConstraint(SpringLayout.NORTH, titleLabel3, 5, SpringLayout.NORTH, targetPanel);
+		targetLayout.putConstraint(SpringLayout.WEST, browseTextField3,20, SpringLayout.WEST, targetPanel);
+		targetLayout.putConstraint(SpringLayout.NORTH, browseTextField3, 5, SpringLayout.SOUTH, titleLabel3); 
+		targetLayout.putConstraint(SpringLayout.WEST, browseBtn3, 15, SpringLayout.EAST, browseTextField3);
+		targetLayout.putConstraint(SpringLayout.NORTH, browseBtn3, 5, SpringLayout.SOUTH, titleLabel3);
+  	}
+  	
+  	private void parameterLayout() throws Exception  {
+  		
+  		//regionPanel thresholdPanel datasetPanel returnBtn2 submitBtn排版
+  		parameterPanel.setLayout(springLayout2); 
+  		parameter1.setPreferredSize(new Dimension(100, 25));
+		parameter2.setPreferredSize(new Dimension(100, 25));
+		parameter3.setPreferredSize(new Dimension(100, 25));
+		parameter4.setPreferredSize(new Dimension(100, 25));
+		parameter5.setPreferredSize(new Dimension(100, 25));
+		
+		parameterPanel.add(regionPanel);
+		parameterPanel.add(thresholdPanel);
+		parameterPanel.add(datasetPanel);
+		parameterPanel.add(returnBtn2);
+		parameterPanel.add(submitBtn);
+		springLayout2.putConstraint(SpringLayout.WEST, regionPanel, 10, SpringLayout.WEST, parameterPanel);
+		springLayout2.putConstraint(SpringLayout.NORTH, regionPanel,10, SpringLayout.NORTH, parameterPanel);	
+		springLayout2.putConstraint(SpringLayout.WEST, thresholdPanel, 10, SpringLayout.WEST, parameterPanel);
+		springLayout2.putConstraint(SpringLayout.NORTH, thresholdPanel, 20, SpringLayout.SOUTH, regionPanel); 
+		springLayout2.putConstraint(SpringLayout.WEST, datasetPanel, 10, SpringLayout.WEST, parameterPanel);
+		springLayout2.putConstraint(SpringLayout.NORTH, datasetPanel, 20, SpringLayout.SOUTH, thresholdPanel); 	
+		springLayout2.putConstraint(SpringLayout.EAST, returnBtn2, -20, SpringLayout.EAST, parameterPanel);
+		springLayout2.putConstraint(SpringLayout.SOUTH, returnBtn2, -15, SpringLayout.SOUTH, parameterPanel);
+  		springLayout2.putConstraint(SpringLayout.EAST, submitBtn, -130, SpringLayout.EAST, parameterPanel);
+		springLayout2.putConstraint(SpringLayout.SOUTH, submitBtn, -15, SpringLayout.SOUTH, parameterPanel);	
+		
+		//regionPanel
+		regionPanel.setLayout(regionLayout);
+		regionPanel.add(titleLabel4);
+		regionPanel.add(titleLabel5);
+		regionPanel.add(parameter1);
+		regionPanel.add(parameter2);
+		regionPanel.setPreferredSize(new Dimension(470,110));
+		regionPanel.setBorder(BorderFactory.createTitledBorder(BorderFactory.createLineBorder(Color.BLUE,1),"此項目之健康區間"));
+		regionLayout.putConstraint(SpringLayout.WEST, titleLabel4, 90, SpringLayout.WEST, regionPanel);
+		regionLayout.putConstraint(SpringLayout.NORTH, titleLabel4, 7, SpringLayout.NORTH, regionPanel);
+		regionLayout.putConstraint(SpringLayout.WEST, parameter1, 150, SpringLayout.WEST, regionPanel);
+		regionLayout.putConstraint(SpringLayout.NORTH, parameter1, 5, SpringLayout.NORTH, regionPanel); 
+	   	regionLayout.putConstraint(SpringLayout.WEST, titleLabel5, 90, SpringLayout.WEST, regionPanel);
+		regionLayout.putConstraint(SpringLayout.NORTH, titleLabel5, 25, SpringLayout.SOUTH, titleLabel4);
+		regionLayout.putConstraint(SpringLayout.WEST, parameter2, 150, SpringLayout.WEST, regionPanel);
+		regionLayout.putConstraint(SpringLayout.NORTH, parameter2, 20, SpringLayout.SOUTH, parameter1); 
+		
+		//thresholdPanel
+		thresholdPanel.setLayout(thresholdLayout);
+		thresholdPanel.add(titleLabel6);
+		thresholdPanel.add(parameter3);
+		thresholdPanel.setPreferredSize(new Dimension(470,70));
+		thresholdPanel.setBorder(BorderFactory.createTitledBorder(BorderFactory.createLineBorder(Color.ORANGE,1),"門檻"));
+		thresholdLayout.putConstraint(SpringLayout.WEST, titleLabel6, 90, SpringLayout.WEST, thresholdPanel);
+		thresholdLayout.putConstraint(SpringLayout.NORTH, titleLabel6, 7, SpringLayout.NORTH, thresholdPanel);
+		thresholdLayout.putConstraint(SpringLayout.WEST, parameter3, 150, SpringLayout.WEST, thresholdPanel);
+		thresholdLayout.putConstraint(SpringLayout.NORTH, parameter3, 5, SpringLayout.NORTH, thresholdPanel);
+		
+		//datasetPanel
+		//Action Listener
+     	trainSlider.addChangeListener(new javax.swing.event.ChangeListener() {
+        	public void stateChanged(ChangeEvent e) {
+        		Double valueD = Double.parseDouble(trainSlider.getValue() + "");
+        		String valueStr = "";
+        		//valueD = valueD / 10;
+        		valueStr = Double.toString(valueD);
+        		        		
+           	trainLabel3.setText(valueStr + "");
+        	}
+    	});
+
+		datasetPanel.setLayout(datasetLayout);
+		datasetPanel.add(trainSlider);
+		datasetPanel.add(trainLabel1);
+		datasetPanel.add(trainLabel2);
+		datasetPanel.add(trainLabel3);
+		datasetPanel.add(trainLabel4);
+		datasetPanel.add(titleLabel7);	
+		datasetPanel.add(titleLabel8);	
+		//datasetPanel.add(parameter4);
+		datasetPanel.add(parameter5);
+		datasetPanel.setPreferredSize(new Dimension(470,110));
+		datasetPanel.setBorder(BorderFactory.createTitledBorder(BorderFactory.createLineBorder(Color.GREEN,1),"資料"));
+		datasetLayout.putConstraint(SpringLayout.WEST, titleLabel7, 30, SpringLayout.WEST, datasetPanel);
+		datasetLayout.putConstraint(SpringLayout.NORTH, titleLabel7, 7, SpringLayout.NORTH, datasetPanel);	
+	//	datasetLayout.putConstraint(SpringLayout.WEST, parameter4, 150, SpringLayout.WEST, datasetPanel);
+	//	datasetLayout.putConstraint(SpringLayout.NORTH, parameter4, 5, SpringLayout.NORTH, datasetPanel); 
+		datasetLayout.putConstraint(SpringLayout.WEST, titleLabel8, 80, SpringLayout.WEST, datasetPanel);
+		datasetLayout.putConstraint(SpringLayout.NORTH, titleLabel8, 25,SpringLayout. SOUTH, titleLabel7);	
+		datasetLayout.putConstraint(SpringLayout.WEST, parameter5, 150, SpringLayout.WEST, datasetPanel);
+		datasetLayout.putConstraint(SpringLayout.NORTH, parameter5, 20, SpringLayout.SOUTH, parameter4); 
+  
+ 		datasetLayout.putConstraint(SpringLayout.WEST, trainLabel1, 150, SpringLayout.WEST, datasetPanel);
+		datasetLayout.putConstraint(SpringLayout.NORTH, trainLabel1, 5, SpringLayout.NORTH, datasetPanel); 
+  		datasetLayout.putConstraint(SpringLayout.WEST, trainSlider, 0, SpringLayout.EAST, trainLabel1);
+		datasetLayout.putConstraint(SpringLayout.NORTH, trainSlider, 5, SpringLayout.NORTH, datasetPanel); 
+  		datasetLayout.putConstraint(SpringLayout.WEST, trainLabel2, 0, SpringLayout.EAST, trainSlider);
+		datasetLayout.putConstraint(SpringLayout.NORTH, trainLabel2, 5, SpringLayout.NORTH, datasetPanel); 
+   		datasetLayout.putConstraint(SpringLayout.WEST, trainLabel3, 25, SpringLayout.EAST, trainLabel2);
+		datasetLayout.putConstraint(SpringLayout.NORTH, trainLabel3, 5, SpringLayout.NORTH, datasetPanel); 
+   		datasetLayout.putConstraint(SpringLayout.WEST, trainLabel4, 5, SpringLayout.EAST, trainLabel3);
+		datasetLayout.putConstraint(SpringLayout.NORTH, trainLabel4, 5, SpringLayout.NORTH, datasetPanel); 
+    }
+    		
+/*	protected void processWindowEvent(WindowEvent e) {		//關閉視窗
+		super.processWindowEvent(e);
+		if (e.getID() == WindowEvent.WINDOW_CLOSING) {
+			int reply = -1;
+			
+			reply = JOptionPane.showConfirmDialog(null,"確定要離開此程式嗎?","確認視窗", JOptionPane.YES_NO_OPTION);
+			if(reply == 0){
+				System.exit(0);	
+			}
+			else{
+				this.setVisible(true);
+			}			
+		}
+	}*/
+}

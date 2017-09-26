@@ -1,0 +1,6 @@
+java C:\jdk1.6.0_03\bin\2009_10月份\20091028_01_arff_切割程式\測試檔
+
+
+java SplitArffFile "C:\jdk1.6.0_03\bin\2009_10月份\20091028_01_arff_分割出_trainingdata_與_testingdata_程式\測試檔" "Combined_Arff.arff" 0.7
+
+java SplitArffFile "C:\jdk1.6.0_03\bin\2009_10月份\20091028_01_arff_分割出_trainingdata_與_testingdata_程式\測試檔\Combined_Arff.arff"
